@@ -1,0 +1,2474 @@
+{
+    "quiz": [
+        {
+            "question": "¿Cuál es la primera fase del ciclo de vida del sistema ERP?",
+            "options": [
+                "Selección",
+                "Implantación",
+                "Adopción",
+                "Puesta en marcha"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "question": "¿Qué significa SRD en el contexto de los sistemas ERP?",
+            "options": [
+                "Sistema de Revisión de Datos",
+                "Sistema de Requisitos Desarrollados",
+                "Documento de Especificación de Requisitos",
+                "Sistema de Redacción Documental"
+            ],
+            "answer": "Documento de Especificación de Requisitos"
+        },
+        {
+            "question": "¿Qué tipo de vista permite representar datos en forma de lista en Odoo?",
+            "options": [
+                "Vista Kanban",
+                "Vista Árbol",
+                "Vista Formulario",
+                "Vista Calendario"
+            ],
+            "answer": "Vista Árbol"
+        },
+        {
+            "question": "¿En qué fase se decide si la empresa debe o no embarcarse en un proyecto ERP?",
+            "options": [
+                "Fase de desarrollo",
+                "Fase de implementación",
+                "Fase de iniciación",
+                "Fase de producción y soporte"
+            ],
+            "answer": "Fase de iniciación"
+        },
+        {
+            "question": "¿Qué tipo de relación define que un modelo puede estar relacionado con varios elementos en Odoo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "relation"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué lenguaje se utiliza para describir vistas dinámicas en Odoo?",
+            "options": [
+                "JSON",
+                "XML",
+                "HTML",
+                "YAML"
+            ],
+            "answer": "XML"
+        },
+        {
+            "question": "¿Qué método se utiliza para recorrer archivos XML en Odoo?",
+            "options": [
+                "XSLT",
+                "XPath",
+                "XQuery",
+                "XML Schema"
+            ],
+            "answer": "XPath"
+        },
+        {
+            "question": "¿Qué tipo de informe permite generar salidas en formato PDF en Odoo?",
+            "options": [
+                "Informe HTML",
+                "Informe PDF",
+                "Informe TXT",
+                "Informe CSV"
+            ],
+            "answer": "Informe PDF"
+        },
+        {
+            "question": "¿Qué herramienta permite crear tableros personalizados en Odoo?",
+            "options": [
+                "Módulo CRM",
+                "Aplicación Tableros",
+                "Módulo Ventas",
+                "Módulo Inventario"
+            ],
+            "answer": "Aplicación Tableros"
+        },
+        {
+            "question": "¿Qué riesgo común puede surgir durante la implantación de un ERP?",
+            "options": [
+                "Finalización dentro del plazo previsto",
+                "Sobrepasar el presupuesto asignado",
+                "Ausencia de errores",
+                "Exceso de documentación"
+            ],
+            "answer": "Sobrepasar el presupuesto asignado"
+        },
+        {
+            "question": "¿Qué tipo de interfaz permite visualizar datos en forma de tarjetas en Odoo?",
+            "options": [
+                "Vista Árbol",
+                "Vista Kanban",
+                "Vista Formulario",
+                "Vista Gantt"
+            ],
+            "answer": "Vista Kanban"
+        },
+        {
+            "question": "¿Qué representa el campo 'x_name' en un modelo personalizado en Odoo?",
+            "options": [
+                "Un campo numérico",
+                "Un campo de fecha",
+                "El campo principal identificador",
+                "Un campo booleano"
+            ],
+            "answer": "El campo principal identificador"
+        },
+        {
+            "question": "¿Qué característica distingue a las interfaces dinámicas en Odoo?",
+            "options": [
+                "No pueden ser modificadas",
+                "Se almacenan en un archivo XML",
+                "Solo se utilizan para informes",
+                "Son estáticas"
+            ],
+            "answer": "Se almacenan en un archivo XML"
+        },
+        {
+            "question": "¿Qué tipo de formación se ofrece generalmente durante la implantación de un ERP?",
+            "options": [
+                "Soporte telefónico",
+                "Cursos presenciales u online",
+                "Creación de manuales",
+                "Videoconferencias"
+            ],
+            "answer": "Cursos presenciales u online"
+        },
+        {
+            "question": "¿Qué se utiliza para controlar el acceso a ciertos módulos en Odoo?",
+            "options": [
+                "Grupos y permisos",
+                "Contraseñas únicas",
+                "Roles predeterminados",
+                "Acceso libre"
+            ],
+            "answer": "Grupos y permisos"
+        },
+        {
+            "question": "¿Qué sucede cuando se marca el atributo 'Requerido' en un campo en Odoo?",
+            "options": [
+                "El campo es opcional",
+                "El campo debe ser completado obligatoriamente",
+                "El campo se vuelve editable",
+                "El campo se oculta"
+            ],
+            "answer": "El campo debe ser completado obligatoriamente"
+        },
+        {
+            "question": "¿Qué tipo de relación se utiliza cuando varios vehículos pueden tener varios propietarios en Odoo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "relation"
+            ],
+            "answer": "many2many"
+        },
+        {
+            "question": "¿Qué herramienta se utiliza para maquetar informes en Odoo?",
+            "options": [
+                "CSS",
+                "JavaScript",
+                "Python",
+                "SQL"
+            ],
+            "answer": "CSS"
+        },
+        {
+            "question": "¿Qué se realiza en la fase de puesta en marcha de un ERP?",
+            "options": [
+                "Análisis de requisitos",
+                "Comparación de resultados planificados y reales",
+                "Diseño del sistema",
+                "Instalación del hardware"
+            ],
+            "answer": "Comparación de resultados planificados y reales"
+        },
+        {
+            "question": "¿Qué hace que un menú sea visible para todos los usuarios en Odoo?",
+            "options": [
+                "Si está adscrito a un grupo específico",
+                "Si no está asociado a ningún grupo",
+                "Si tiene permisos de administrador",
+                "Si está vinculado a una acción específica"
+            ],
+            "answer": "Si no está asociado a ningún grupo"
+        },
+        {
+            "question": "¿Qué nombre recibe el motor de plantillas utilizado en Odoo para generar informes?",
+            "options": [
+                "QWeb",
+                "Jinja",
+                "Handlebars",
+                "Mustache"
+            ],
+            "answer": "QWeb"
+        },
+        {
+            "question": "¿Qué significa la herencia de vistas en Odoo?",
+            "options": [
+                "Modificar vistas originales directamente",
+                "Crear nuevas vistas sin modificar las originales",
+                "Eliminar vistas existentes",
+                "Clonar vistas existentes"
+            ],
+            "answer": "Crear nuevas vistas sin modificar las originales"
+        },
+        {
+            "question": "¿Qué tipo de documento se genera al final de la fase de adopción en un proyecto ERP?",
+            "options": [
+                "SRD (Documento de Especificación de Requisitos)",
+                "SDD (Documento de Diseño del Software)",
+                "Plan de pruebas",
+                "Informe de auditoría"
+            ],
+            "answer": "SRD (Documento de Especificación de Requisitos)"
+        },
+        {
+            "question": "¿Qué tipo de soporte se considera más efectivo durante el funcionamiento de un ERP?",
+            "options": [
+                "Cursos presenciales",
+                "Documentación escrita",
+                "Soporte técnico en tiempo real",
+                "Foros de discusión"
+            ],
+            "answer": "Soporte técnico en tiempo real"
+        },
+        {
+            "question": "¿Cuál de las siguientes no es una fase del ciclo de vida de un ERP?",
+            "options": [
+                "Adopción",
+                "Eliminación",
+                "Implantación",
+                "Puesta en marcha"
+            ],
+            "answer": "Eliminación"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una razón tecnológica para adoptar un ERP?",
+            "options": [
+                "Diversidad de sistemas",
+                "Reducir costes",
+                "Obtener ventaja competitiva",
+                "Mejorar la atención al cliente"
+            ],
+            "answer": "Diversidad de sistemas"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal de la implantación de un ERP en una empresa?",
+            "options": [
+                "Automatizar procesos y mejorar la gestión empresarial",
+                "Aumentar la cantidad de empleados",
+                "Eliminar el uso de computadoras en la empresa",
+                "Reducir la comunicación entre departamentos"
+            ],
+            "answer": "Automatizar procesos y mejorar la gestión empresarial"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una razón tecnológica para adoptar un ERP?",
+            "options": [
+                "Diversidad de sistemas",
+                "Reducir costes",
+                "Obtener ventaja competitiva",
+                "Mejorar la atención al cliente"
+            ],
+            "answer": "Diversidad de sistemas"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal de la fase de adopción en la implantación de un ERP?",
+            "options": [
+                "Determinar los requerimientos del sistema.",
+                "Seleccionar el proveedor adecuado.",
+                "Evaluar si la empresa necesita un ERP.",
+                "Definir el presupuesto del proyecto."
+            ],
+            "answer": "Evaluar si la empresa necesita un ERP."
+        },
+        {
+            "question": "¿Qué característica distingue a los sistemas ERP modernos respecto a los antiguos?",
+            "options": [
+                "Mayor modularidad y flexibilidad.",
+                "Menor integración entre módulos.",
+                "Falta de soporte para múltiples usuarios.",
+                "Enfoque exclusivo en grandes empresas."
+            ],
+            "answer": "Mayor modularidad y flexibilidad."
+        },
+        {
+            "question": "¿Cuál de las siguientes afirmaciones sobre la herencia de vistas en Odoo es verdadera?",
+            "options": [
+                "Permite modificar vistas originales directamente.",
+                "Crea nuevas vistas sin afectar las originales.",
+                "Elimina las vistas existentes y crea otras nuevas.",
+                "Todas las respuestas son correctas."
+            ],
+            "answer": "Crea nuevas vistas sin afectar las originales."
+        },
+        {
+            "question": "¿Qué tipo de riesgo común puede surgir durante la fase de implantación de un ERP?",
+            "options": [
+                "Ausencia de formación adecuada para los usuarios.",
+                "Sobrepasar el presupuesto asignado.",
+                "Funcionamiento inesperado de la aplicación.",
+                "Todas las respuestas son correctas."
+            ],
+            "answer": "Todas las respuestas son correctas."
+        },
+        {
+            "question": "¿Qué se realiza en la fase de puesta en marcha de un ERP?",
+            "options": [
+                "Comparación entre resultados planificados y reales.",
+                "Capacitación inicial de los usuarios finales.",
+                "Instalación del hardware necesario.",
+                "Ninguna de las respuestas es correcta."
+            ],
+            "answer": "Comparación entre resultados planificados y reales."
+        },
+        {
+            "question": "¿Qué significa que una vista en Odoo sea dinámica?",
+            "options": [
+                "Se almacena en un archivo XML y puede ser modificada por el usuario.",
+                "No puede ser modificada después de su creación.",
+                "Solo se utiliza para generar informes.",
+                "Es estática y no permite cambios."
+            ],
+            "answer": "Se almacena en un archivo XML y puede ser modificada por el usuario."
+        },
+        {
+            "question": "¿Qué ocurre cuando se marca un campo como 'Requerido' en un modelo personalizado en Odoo?",
+            "options": [
+                "El campo se vuelve opcional.",
+                "El campo debe ser completado obligatoriamente.",
+                "El campo se oculta de la interfaz de usuario.",
+                "Ninguna de las respuestas es correcta."
+            ],
+            "answer": "El campo debe ser completado obligatoriamente."
+        },
+        {
+            "question": "¿Qué tipo de relación se utiliza cuando un cliente puede tener varios pedidos en Odoo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "relation"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué herramienta se utiliza para maquetar informes en formato PDF en Odoo?",
+            "options": [
+                "CSS",
+                "JavaScript",
+                "Python",
+                "QWeb"
+            ],
+            "answer": "QWeb"
+        },
+        {
+            "question": "¿Qué se genera al final de la fase de adopción en un proyecto ERP?",
+            "options": [
+                "SRD (Documento de Especificación de Requisitos)",
+                "Informe de auditoría",
+                "Plan de pruebas",
+                "Ninguna de las respuestas es correcta."
+            ],
+            "answer": "SRD (Documento de Especificación de Requisitos)"
+        },
+        {
+            "question": "¿Cuál es el propósito principal de crear tableros personalizados en Odoo?",
+            "options": [
+                "Mostrar información relevante en un solo lugar.",
+                "Limitar el acceso a ciertos datos.",
+                "Generar informes automáticos.",
+                "Ninguna de las respuestas es correcta."
+            ],
+            "answer": "Mostrar información relevante en un solo lugar."
+        },
+        {
+            "question": "¿Qué ocurre si una entrada de menú no está asociada a ningún grupo en Odoo?",
+            "options": [
+                "Solo será visible para los administradores.",
+                "Será visible para todos los usuarios.",
+                "No será visible para ningún usuario.",
+                "Todas las respuestas son correctas."
+            ],
+            "answer": "Será visible para todos los usuarios."
+        },
+        {
+            "question": "¿Qué se evalúa en la fase de selección de un ERP?",
+            "options": [
+                "Los procesos críticos de la empresa.",
+                "Las funcionalidades requeridas.",
+                "La viabilidad económica del proyecto.",
+                "Todas las respuestas son correctas."
+            ],
+            "answer": "Todas las respuestas son correctas."
+        },
+        {
+            "question": "¿Qué tipo de informe permite generar salidas en formato HTML en Odoo?",
+            "options": [
+                "Informe QWeb",
+                "Informe TXT",
+                "Informe CSV",
+                "Informe PDF"
+            ],
+            "answer": "Informe QWeb"
+        },
+        {
+            "question": "¿Qué característica define a un sistema ERP frente a otros sistemas de gestión?",
+            "options": [
+                "Integración completa de los procesos empresariales.",
+                "Enfoque exclusivo en la gestión financiera.",
+                "Soporte limitado para múltiples usuarios.",
+                "Ninguna de las respuestas es correcta."
+            ],
+            "answer": "Integración completa de los procesos empresariales."
+        },
+        {
+            "question": "¿Qué tipo de sistema ERP es recomendable para una pequeña empresa con presupuesto limitado?",
+            "options": [
+                "Un sistema ERP on-premise personalizado",
+                "Un sistema ERP en la nube de código abierto",
+                "Un sistema ERP premium con múltiples módulos",
+                "Ninguna de las respuestas es correcta"
+            ],
+            "answer": "Un sistema ERP en la nube de código abierto"
+        },
+        {
+            "question": "¿Cuál es el principal objetivo de la fase de selección en la implantación de un ERP?",
+            "options": [
+                "Evaluar si la empresa necesita un ERP",
+                "Elegir el sistema ERP más adecuado para la empresa",
+                "Capacitar a los usuarios finales",
+                "Todas las respuestas son correctas"
+            ],
+            "answer": "Elegir el sistema ERP más adecuado para la empresa"
+        },
+        {
+            "question": "¿Qué significa que un menú no esté asociado a ningún grupo en Odoo?",
+            "options": [
+                "Solo será visible para los administradores",
+                "Será visible para todos los usuarios",
+                "No será visible para ningún usuario",
+                "Todas las respuestas son correctas"
+            ],
+            "answer": "Será visible para todos los usuarios"
+        },
+        {
+            "question": "¿Qué ocurre durante la fase de puesta en marcha de un ERP?",
+            "options": [
+                "Se realiza una auditoría del sistema",
+                "Se capacita al personal sobre el uso del sistema",
+                "Se migran datos del sistema anterior",
+                "Todas las respuestas son correctas"
+            ],
+            "answer": "Todas las respuestas son correctas"
+        },
+        {
+            "question": "¿Qué riesgo común puede surgir durante la implementación de un ERP?",
+            "options": [
+                "Finalización fuera del plazo previsto",
+                "Sobrepasar el presupuesto asignado",
+                "Ausencia de formación adecuada para los usuarios",
+                "Todas las respuestas son correctas"
+            ],
+            "answer": "Todas las respuestas son correctas"
+        },
+        {
+            "question": "¿Qué ventaja ofrece la herencia de vistas en Odoo?",
+            "options": [
+                "Permite modificar vistas originales directamente",
+                "Crea nuevas vistas sin afectar las originales",
+                "Elimina las vistas existentes",
+                "Ninguna de las respuestas es correcta"
+            ],
+            "answer": "Crea nuevas vistas sin afectar las originales"
+        },
+        {
+            "question": "¿Qué tipo de vista permite visualizar datos en forma de gráfico en Odoo?",
+            "options": [
+                "Vista Kanban",
+                "Vista Árbol",
+                "Vista Gráfica",
+                "Vista Formulario"
+            ],
+            "answer": "Vista Gráfica"
+        },
+        {
+            "question": "¿Qué ocurre cuando un usuario pertenece a múltiples grupos en Odoo?",
+            "options": [
+                "Adquiere todos los permisos de cada grupo",
+                "Solo adquiere los permisos del primer grupo asignado",
+                "No adquiere ningún permiso",
+                "Ninguna de las respuestas es correcta"
+            ],
+            "answer": "Adquiere todos los permisos de cada grupo"
+        },
+        {
+            "question": "¿Qué significa que un objeto en Odoo tiene una relación 'many2many' con otro objeto?",
+            "options": [
+                "Un objeto puede estar relacionado con uno o más objetos",
+                "Un objeto solo puede estar relacionado con un objeto",
+                "Un objeto no puede estar relacionado con otros objetos",
+                "Ninguna de las respuestas es correcta"
+            ],
+            "answer": "Un objeto puede estar relacionado con uno o más objetos"
+        },
+        {
+            "question": "¿Qué tipo de vista permite visualizar datos en forma de lista jerárquica en Odoo?",
+            "options": [
+                "Vista Kanban",
+                "Vista Árbol",
+                "Vista Formulario",
+                "Vista Calendario"
+            ],
+            "answer": "Vista Árbol"
+        },
+        {
+            "question": "¿Qué significa que un ERP sea modular?",
+            "options": [
+                "Que solo puede gestionar un departamento específico",
+                "Que puede descomponerse en módulos independientes para diferentes áreas de la empresa",
+                "Que no puede integrarse con otros sistemas",
+                "Ninguna de las respuestas es correcta"
+            ],
+            "answer": "Que puede descomponerse en módulos independientes para diferentes áreas de la empresa"
+        },
+        {
+            "question": "¿Cuáles son las fases del ciclo de vida de un sistema ERP según la Unidad 4?",
+            "options": [
+                "Análisis, Diseño, Desarrollo, Pruebas",
+                "Adopción, Selección, Implantación, Puesta en marcha",
+                "Planificación, Ejecución, Monitoreo, Cierre",
+                "Detección, Evaluación, Implementación, Mantenimiento"
+            ],
+            "answer": "Adopción, Selección, Implantación, Puesta en marcha"
+        },
+        {
+            "question": "¿Qué módulo es clave para empresas del sector servicios según la Unidad 4?",
+            "options": [
+                "Gestión de almacén",
+                "Terminales de punto de venta",
+                "Control de proyectos",
+                "Gestión de recursos humanos"
+            ],
+            "answer": "Control de proyectos"
+        },
+        {
+            "question": "¿Qué riesgo NO se menciona en la implantación de un ERP?",
+            "options": [
+                "Funcionamiento no esperado de la aplicación",
+                "Aumento de la productividad inmediata",
+                "Sobrepasar el presupuesto asignado",
+                "Finalización fuera del plazo previsto"
+            ],
+            "answer": "Aumento de la productividad inmediata"
+        },
+        {
+            "question": "¿Cómo se gestiona el control de acceso en Odoo?",
+            "options": [
+                "Mediante contraseñas únicas por departamento",
+                "Usando certificados digitales",
+                "A través de usuarios y grupos con permisos definidos",
+                "Limitando el acceso por direcciones IP"
+            ],
+            "answer": "A través de usuarios y grupos con permisos definidos"
+        },
+        {
+            "question": "¿Qué tipo de vista NO existe en Odoo según la Unidad 4?",
+            "options": [
+                "Formulario (form)",
+                "Árbol/Lista (tree)",
+                "Mapa interactivo",
+                "Kanban"
+            ],
+            "answer": "Mapa interactivo"
+        },
+        {
+            "question": "¿Qué ventaja tiene adaptar la empresa al ERP en lugar de personalizarlo?",
+            "options": [
+                "Mayor flexibilidad en procesos internos",
+                "Reduce costes de licencia",
+                "Facilita migraciones futuras a nuevas versiones",
+                "Permite eliminar módulos innecesarios"
+            ],
+            "answer": "Facilita migraciones futuras a nuevas versiones"
+        },
+        {
+            "question": "¿Qué documento se genera en la fase de iniciación de un proyecto ERP?",
+            "options": [
+                "SRD (Documento de Especificación de Requisitos)",
+                "SDD (Documento de Diseño del Software)",
+                "Plan de pruebas",
+                "Manual de usuario"
+            ],
+            "answer": "SRD (Documento de Especificación de Requisitos)"
+        },
+        {
+            "question": "¿Qué relación entre objetos permite definir 'muchos a muchos' en Odoo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "one2one"
+            ],
+            "answer": "many2many"
+        },
+        {
+            "question": "¿Qué subfases incluye la fase de implantación de un ERP según la Unidad 4?",
+            "options": [
+                "Análisis, Diseño, Pruebas, Documentación",
+                "Plan de implantación, Implantación, Formación, Conversión y migración de datos",
+                "Adopción, Selección, Configuración, Auditoría",
+                "Desarrollo, Integración, Soporte, Mantenimiento"
+            ],
+            "answer": "Plan de implantación, Implantación, Formación, Conversión y migración de datos"
+        },
+        {
+            "question": "¿Qué permite la herencia de vistas en Odoo según el material?",
+            "options": [
+                "Eliminar vistas predeterminadas del sistema",
+                "Modificar vistas existentes sin alterar el código original",
+                "Crear bases de datos independientes",
+                "Restringir el acceso a usuarios específicos"
+            ],
+            "answer": "Modificar vistas existentes sin alterar el código original"
+        },
+        {
+            "question": "¿Qué característica define a los tableros (dashboards) en Odoo?",
+            "options": [
+                "Son estáticos y no permiten personalización",
+                "Agrupan múltiples vistas en un único interfaz",
+                "Solo muestran datos financieros",
+                "Requieren programación avanzada para su creación"
+            ],
+            "answer": "Agrupan múltiples vistas en un único interfaz"
+        },
+        {
+            "question": "¿Qué se recomienda para gestionar informes personalizados en Odoo?",
+            "options": [
+                "Usar herramientas externas como Excel",
+                "Modificar directamente las tablas de la base de datos",
+                "Utilizar vistas QWeb y XML para diseñar plantillas",
+                "Evitar el uso de condicionales en los informes"
+            ],
+            "answer": "Utilizar vistas QWeb y XML para diseñar plantillas"
+        },
+        {
+            "question": "¿Qué tipo de empresa requeriría un módulo específico de 'gestión de tasas municipales' según la Unidad 4?",
+            "options": [
+                "Tiendas físicas",
+                "Empresas de venta telefónica",
+                "Ayuntamientos",
+                "Startups tecnológicas"
+            ],
+            "answer": "Ayuntamientos"
+        },
+        {
+            "question": "¿Qué elemento es fundamental en el modelo de objetos de un ERP como Odoo?",
+            "options": [
+                "Uso exclusivo de bases de datos no relacionales",
+                "Acceso a datos mediante objetos con prefijos de módulo",
+                "Limitación a 10 tablas por sistema",
+                "Ausencia de relaciones entre entidades"
+            ],
+            "answer": "Acceso a datos mediante objetos con prefijos de módulo"
+        },
+        {
+            "question": "¿Qué documento se genera en la fase de desarrollo de un proyecto ERP?",
+            "options": [
+                "SRD (Documento de Especificación de Requisitos)",
+                "SDD (Documento de Diseño del Software)",
+                "Manual de usuario final",
+                "Informe de auditoría"
+            ],
+            "answer": "SDD (Documento de Diseño del Software)"
+        },
+        {
+            "question": "¿Qué se menciona como clave para el éxito de la implantación de un ERP?",
+            "options": [
+                "Externalizar todas las fases del proyecto",
+                "Evitar la formación de usuarios",
+                "Realizar un estudio previo de necesidades y procesos",
+                "Utilizar únicamente software de código abierto"
+            ],
+            "answer": "Realizar un estudio previo de necesidades y procesos"
+        },
+        {
+            "question": "¿Qué etapa del ciclo de vida del ERP implica la evaluación técnica y económica de la solución?",
+            "options": [
+                "Adopción",
+                "Selección",
+                "Implantación",
+                "Puesta en marcha"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "question": "¿Qué tipo de empresas priorizan el módulo CRM en su ERP según la Unidad 4?",
+            "options": [
+                "Empresas de venta telefónica",
+                "Ayuntamientos",
+                "Tiendas físicas",
+                "Empresas manufactureras"
+            ],
+            "answer": "Empresas de venta telefónica"
+        },
+        {
+            "question": "¿Qué aspecto es crítico durante la fase de selección de un ERP?",
+            "options": [
+                "Reducir al mínimo la participación de los usuarios",
+                "Elegir el sistema con más módulos disponibles",
+                "Alinear el ERP con los procesos de negocio de la empresa",
+                "Ignorar los costes de mantenimiento"
+            ],
+            "answer": "Alinear el ERP con los procesos de negocio de la empresa"
+        },
+        {
+            "question": "¿Qué se entiende por 'mejores prácticas' (best practices) en la implantación de un ERP?",
+            "options": [
+                "Procesos personalizados únicos de cada empresa",
+                "Métodos estándar validados como eficientes en la industria",
+                "Funcionalidades obsoletas del sistema",
+                "Pruebas no documentadas"
+            ],
+            "answer": "Métodos estándar validados como eficientes en la industria"
+        },
+        {
+            "question": "¿Qué herramienta se utiliza en Odoo para modificar la estructura de menús?",
+            "options": [
+                "Editor de código PHP",
+                "Elementos de menú en Ajustes/Técnico",
+                "Tablas de la base de datos directamente",
+                "Herramientas de inteligencia artificial"
+            ],
+            "answer": "Elementos de menú en Ajustes/Técnico"
+        },
+        {
+            "question": "¿Qué campo en Odoo permite relacionar un vehículo con su propietario (cliente)?",
+            "options": [
+                "one2one",
+                "many2many",
+                "many2one",
+                "text"
+            ],
+            "answer": "many2one"
+        },
+        {
+            "question": "¿Qué documento compara los resultados reales de la implantación con lo planificado?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Informe de auditoría",
+                "Manual técnico"
+            ],
+            "answer": "Informe de auditoría"
+        },
+        {
+            "question": "¿Qué tipo de prueba se realiza durante la implementación para verificar módulos integrados?",
+            "options": [
+                "Pruebas unitarias",
+                "Pruebas de integración",
+                "Pruebas de estrés",
+                "Pruebas de usabilidad"
+            ],
+            "answer": "Pruebas de integración"
+        },
+        {
+            "question": "¿Qué elemento NO forma parte del modelo de objetos en Odoo?",
+            "options": [
+                "Vistas heredadas",
+                "Prefijos de módulo en objetos",
+                "Campos obligatorios sin validación",
+                "Relaciones entre tablas"
+            ],
+            "answer": "Campos obligatorios sin validación"
+        },
+        {
+            "question": "¿Qué fase incluye la migración de datos y la formación de usuarios?",
+            "options": [
+                "Selección",
+                "Implantación",
+                "Adopción",
+                "Desarrollo"
+            ],
+            "answer": "Implantación"
+        },
+        {
+            "question": "¿Qué fase del ERP se enfoca en ajustar el sistema a los procesos de la empresa?",
+            "options": [
+                "Puesta en marcha",
+                "Implantación",
+                "Adaptación",
+                "Selección"
+            ],
+            "answer": "Adaptación"
+        },
+        {
+            "question": "¿Qué módulo es esencial para gestionar pedidos en tiendas físicas según la Unidad 4?",
+            "options": [
+                "Control de proyectos",
+                "Terminales de punto de venta (TPV)",
+                "Gestión de recursos humanos",
+                "CRM"
+            ],
+            "answer": "Terminales de punto de venta (TPV)"
+        },
+        {
+            "question": "¿Qué implica la 'integración no incremental' durante las pruebas de un ERP?",
+            "options": [
+                "Probar módulos individualmente y luego integrarlos todos juntos",
+                "Probar solo los módulos críticos",
+                "Ignorar la integración entre módulos",
+                "Usar datos ficticios para todas las pruebas"
+            ],
+            "answer": "Probar módulos individualmente y luego integrarlos todos juntos"
+        },
+        {
+            "question": "¿Qué caracteriza a la metodología de implantación en 5 fases mencionada en la Unidad 4?",
+            "options": [
+                "Excluye la fase de análisis de viabilidad",
+                "Incluye desarrollo, implementación y producción como etapas separadas",
+                "Se centra únicamente en la documentación técnica",
+                "Omite la formación de usuarios"
+            ],
+            "answer": "Incluye desarrollo, implementación y producción como etapas separadas"
+        },
+        {
+            "question": "¿Qué elemento es clave en la gestión de permisos de usuarios en Odoo?",
+            "options": [
+                "Direcciones IP autorizadas",
+                "Grupos con derechos de acceso definidos",
+                "Contraseñas temporales",
+                "Límites de horarios de acceso"
+            ],
+            "answer": "Grupos con derechos de acceso definidos"
+        },
+        {
+            "question": "¿Qué tipo de vista en Odoo se utiliza para visualizar tareas en formato de tarjetas?",
+            "options": [
+                "Formulario (form)",
+                "Árbol (tree)",
+                "Kanban",
+                "Gantt"
+            ],
+            "answer": "Kanban"
+        },
+        {
+            "question": "¿Qué se recomienda para evitar errores al modificar vistas predeterminadas en Odoo?",
+            "options": [
+                "Usar herencia de vistas en lugar de editar el código base",
+                "Eliminar las vistas originales",
+                "Ignorar las actualizaciones del sistema",
+                "No utilizar prefijos en los objetos"
+            ],
+            "answer": "Usar herencia de vistas en lugar de editar el código base"
+        },
+        {
+            "question": "¿Qué documento técnico detalla la estructura del software en la fase de desarrollo?",
+            "options": [
+                "SRD (Especificación de Requisitos)",
+                "SDD (Diseño del Software)",
+                "Informe de auditoría",
+                "Manual de usuario"
+            ],
+            "answer": "SDD (Diseño del Software)"
+        },
+        {
+            "question": "¿Qué acción es crucial durante el periodo de estabilización post-implantación?",
+            "options": [
+                "Ignorar los errores menores",
+                "Realizar una auditoría comparativa",
+                "Eliminar el soporte técnico",
+                "Evitar la retroalimentación de usuarios"
+            ],
+            "answer": "Realizar una auditoría comparativa"
+        },
+        {
+            "question": "¿Qué tipo de relación se usa en Odoo para vincular un vehículo con múltiples reparaciones?",
+            "options": [
+                "one2one",
+                "many2one",
+                "one2many",
+                "many2many"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué función cumple el 'SRD' en la implantación de un ERP?",
+            "options": [
+                "Detallar el diseño técnico del software",
+                "Especificar requisitos funcionales sin detalles técnicos",
+                "Documentar errores post-implantación",
+                "Gestionar permisos de usuarios"
+            ],
+            "answer": "Especificar requisitos funcionales sin detalles técnicos"
+        },
+        {
+            "question": "¿Qué se entiende por 'modelo de objetos' en Odoo?",
+            "options": [
+                "Una colección de gráficos 3D para representar datos",
+                "Estructura que organiza tablas, vistas y relaciones en la base de datos",
+                "Plantillas predefinidas para informes financieros",
+                "Herramienta para diseñar interfaces móviles"
+            ],
+            "answer": "Estructura que organiza tablas, vistas y relaciones en la base de datos"
+        },
+        {
+            "question": "¿Qué acción permite agregar un informe al tablero de Odoo?",
+            "options": [
+                "Editar directamente la base de datos",
+                "Usar la opción 'Añadir a mi tablero' en búsquedas",
+                "Programar en Python un script personalizado",
+                "Desactivar módulos no relacionados"
+            ],
+            "answer": "Usar la opción 'Añadir a mi tablero' en búsquedas"
+        },
+        {
+            "question": "¿Qué problema evita la herencia de vistas en Odoo?",
+            "options": [
+                "Falta de soporte para múltiples idiomas",
+                "Pérdida de personalizaciones al actualizar el sistema",
+                "Acceso no autorizado a datos sensibles",
+                "Lentitud en la carga de formularios"
+            ],
+            "answer": "Pérdida de personalizaciones al actualizar el sistema"
+        },
+        {
+            "question": "¿Qué tipo de campo en Odoo se usaría para gestionar múltiples proveedores para un mismo producto?",
+            "options": [
+                "many2one",
+                "one2many",
+                "many2many",
+                "char"
+            ],
+            "answer": "many2many"
+        },
+        {
+            "question": "¿Qué etapa sigue inmediatamente después de la 'implantación' en el ciclo de vida del ERP?",
+            "options": [
+                "Auditoría técnica",
+                "Producción y soporte",
+                "Reingeniería de procesos",
+                "Selección de módulos"
+            ],
+            "answer": "Producción y soporte"
+        },
+        {
+            "question": "¿Qué se recomienda para gestionar manuales de usuario en Odoo?",
+            "options": [
+                "Crear PDFs estáticos sin actualizaciones",
+                "Usar la herramienta de ayuda integrada y actualizarla periódicamente",
+                "Externalizar la documentación a terceros",
+                "Ignorar la necesidad de manuales"
+            ],
+            "answer": "Usar la herramienta de ayuda integrada y actualizarla periódicamente"
+        },
+        {
+            "question": "¿Qué elemento es clave en la creación de informes personalizados en Odoo?",
+            "options": [
+                "Uso exclusivo de SQL puro",
+                "Plantillas QWeb basadas en XML",
+                "Integración con hojas de cálculo externas",
+                "Acceso root a la base de datos"
+            ],
+            "answer": "Plantillas QWeb basadas en XML"
+        },
+        {
+            "question": "¿Qué caracteriza a la fase de 'puesta en marcha' de un ERP?",
+            "options": [
+                "Desarrollo de código personalizado",
+                "Estabilización del sistema y corrección de errores iniciales",
+                "Selección final del proveedor",
+                "Eliminación de datos históricos"
+            ],
+            "answer": "Estabilización del sistema y corrección de errores iniciales"
+        },
+        {
+            "question": "¿Qué herramienta de Odoo se usa para modificar permisos sobre objetos específicos?",
+            "options": [
+                "Editor de menús",
+                "Gestión de grupos en 'Ajustes/Técnico'",
+                "Consola de comandos",
+                "Herramienta de migración de datos"
+            ],
+            "answer": "Gestión de grupos en 'Ajustes/Técnico'"
+        },
+        {
+            "question": "¿Qué se define como 'ciclo de vida clásico' en la metodología de implantación de ERP?",
+            "options": [
+                "Un enfoque ágil sin documentación",
+                "Fases secuenciales con documentación detallada",
+                "Implantación sin pruebas de integración",
+                "Uso exclusivo de herramientas externas"
+            ],
+            "answer": "Fases secuenciales con documentación detallada"
+        },
+        {
+            "question": "¿Qué módulo es crítico para gestionar el padrón municipal en ayuntamientos?",
+            "options": [
+                "CRM",
+                "Gestión de tasas municipales",
+                "Control de inventario",
+                "Módulo de nóminas"
+            ],
+            "answer": "Gestión de tasas municipales"
+        },
+        {
+            "question": "¿Qué representa el campo 'x_name' en modelos personalizados de Odoo?",
+            "options": [
+                "Un identificador técnico interno",
+                "Un campo obligatorio para nombres de usuario",
+                "Un prefijo estándar para campos personalizados",
+                "Una relación many2many"
+            ],
+            "answer": "Un prefijo estándar para campos personalizados"
+        },
+        {
+            "question": "¿Qué se requiere para editar permisos de acceso a un objeto en Odoo?",
+            "options": [
+                "Ser superusuario del sistema",
+                "Modificar directamente la base de datos",
+                "Usar la pestaña 'Permisos de acceso' en grupos",
+                "Desinstalar módulos predeterminados"
+            ],
+            "answer": "Usar la pestaña 'Permisos de acceso' en grupos"
+        },
+        {
+            "question": "¿Qué fase del ERP se asocia con la reingeniería de procesos?",
+            "options": [
+                "Selección",
+                "Adopción",
+                "Implantación",
+                "Puesta en marcha"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "question": "¿Qué tipo de prueba verifica la interacción entre módulos integrados?",
+            "options": [
+                "Pruebas unitarias",
+                "Pruebas de estrés",
+                "Pruebas de integración",
+                "Pruebas de usabilidad"
+            ],
+            "answer": "Pruebas de integración"
+        },
+        {
+            "question": "¿Qué elemento es esencial en el diseño de un tablero (dashboard) en Odoo?",
+            "options": [
+                "Código en lenguaje Python",
+                "Vistas agrupadas de diferentes módulos",
+                "Acceso a la API de terceros",
+                "Uso exclusivo de gráficos 3D"
+            ],
+            "answer": "Vistas agrupadas de diferentes módulos"
+        },
+        {
+            "question": "¿Qué riesgo surge al personalizar en exceso un ERP?",
+            "options": [
+                "Mayor velocidad en actualizaciones",
+                "Dificultad para migrar a nuevas versiones",
+                "Reducción de costes de licencia",
+                "Mejora automática de la seguridad"
+            ],
+            "answer": "Dificultad para migrar a nuevas versiones"
+        },
+        {
+            "question": "¿Qué herramienta de Odoo permite crear campos personalizados sin programación?",
+            "options": [
+                "Editor XML avanzado",
+                "Modo desarrollador y modelos personalizados",
+                "Consola de comandos",
+                "Herramientas de inteligencia empresarial"
+            ],
+            "answer": "Modo desarrollador y modelos personalizados"
+        },
+        {
+            "question": "¿Qué documento compara los beneficios planificados con los resultados reales post-implantación?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Informe de auditoría",
+                "Manual de usuario"
+            ],
+            "answer": "Informe de auditoría"
+        },
+        {
+            "question": "¿Qué permite la opción 'hereded' en la creación de grupos de usuarios en Odoo?",
+            "options": [
+                "Borrar permisos de grupos existentes",
+                "Heredar permisos de otros grupos automáticamente",
+                "Restringir el acceso a solo un módulo",
+                "Ocultar menús específicos"
+            ],
+            "answer": "Heredar permisos de otros grupos automáticamente"
+        },
+        {
+            "question": "¿Qué módulo de Odoo se utiliza para gestionar métodos de pago en restaurantes?",
+            "options": [
+                "CRM",
+                "Punto de venta (POS)",
+                "Contabilidad analítica",
+                "Gestión de proyectos"
+            ],
+            "answer": "Punto de venta (POS)"
+        },
+        {
+            "question": "¿Qué consecuencia tiene ignorar el estudio de necesidades antes de implantar un ERP?",
+            "options": [
+                "Reducción de costes iniciales",
+                "Mayor alineación con los procesos de la empresa",
+                "Riesgo de elegir un sistema inadecuado",
+                "Fácil migración de datos"
+            ],
+            "answer": "Riesgo de elegir un sistema inadecuado"
+        },
+        {
+            "question": "¿Qué herramienta en Odoo se emplea para migrar datos desde sistemas legacy?",
+            "options": [
+                "Editor de vistas XML",
+                "Importación masiva mediante archivos CSV",
+                "Consola de depuración",
+                "Herramientas de inteligencia artificial"
+            ],
+            "answer": "Importación masiva mediante archivos CSV"
+        },
+        {
+            "question": "¿Qué caracteriza a la fase de 'producción y soporte' en el ciclo de vida del ERP?",
+            "options": [
+                "Desarrollo de nuevos módulos personalizados",
+                "Operación normal del sistema con mantenimiento continuo",
+                "Selección de proveedores externos",
+                "Eliminación de usuarios inactivos"
+            ],
+            "answer": "Operación normal del sistema con mantenimiento continuo"
+        },
+        {
+            "question": "¿Qué tipo de empresa necesitaría un módulo de 'control de lotes/números de serie'?",
+            "options": [
+                "Empresas de consultoría",
+                "Fabricantes de productos perecederos",
+                "Startups de software",
+                "Agencias de marketing"
+            ],
+            "answer": "Fabricantes de productos perecederos"
+        },
+        {
+            "question": "¿Qué se logra al utilizar 'vistas heredadas' en lugar de modificar vistas base en Odoo?",
+            "options": [
+                "Eliminar la necesidad de actualizaciones",
+                "Mantener personalizaciones tras actualizar el sistema",
+                "Reducir el tiempo de carga de páginas",
+                "Ocultar campos obligatorios"
+            ],
+            "answer": "Mantener personalizaciones tras actualizar el sistema"
+        },
+        {
+            "question": "¿Qué campo en Odoo representa una relación donde un producto puede tener múltiples proveedores?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "char"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué documento técnico describe la arquitectura del sistema ERP?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Manual de usuario",
+                "Informe de auditoría"
+            ],
+            "answer": "SDD"
+        },
+        {
+            "question": "¿Qué acción es clave durante la fase de 'puesta en marcha' de un ERP?",
+            "options": [
+                "Configurar permisos de superusuario",
+                "Realizar pruebas finales con usuarios reales",
+                "Desarrollar nuevos módulos personalizados",
+                "Eliminar datos históricos"
+            ],
+            "answer": "Realizar pruebas finales con usuarios reales"
+        },
+        {
+            "question": "¿Qué se entiende por 'metodología de implantación' en el contexto de un ERP?",
+            "options": [
+                "Un plan para desarrollar código fuente desde cero",
+                "Un proceso estructurado para implementar el sistema en la empresa",
+                "Una técnica para reducir costes de licencias",
+                "Una estrategia de marketing para el ERP"
+            ],
+            "answer": "Un proceso estructurado para implementar el sistema en la empresa"
+        },
+        {
+            "question": "¿Qué módulo es esencial para gestionar quejas de ciudadanos en un ayuntamiento?",
+            "options": [
+                "CRM integrado con portales municipales",
+                "Control de inventario",
+                "Gestión de nóminas",
+                "Módulo de producción"
+            ],
+            "answer": "CRM integrado con portales municipales"
+        },
+        {
+            "question": "¿Qué caracteriza a la integración incremental en pruebas de ERP?",
+            "options": [
+                "Probar módulos individualmente sin integrarlos",
+                "Añadir módulos gradualmente y probar en cada paso",
+                "Usar solo datos reales en pruebas",
+                "Ignorar la interacción entre módulos"
+            ],
+            "answer": "Añadir módulos gradualmente y probar en cada paso"
+        },
+        {
+            "question": "¿Qué campo en Odoo se usa para registrar la fecha de creación de un registro?",
+            "options": [
+                "create_date",
+                "x_fecha_alta",
+                "start_date",
+                "fecha_creacion"
+            ],
+            "answer": "create_date"
+        },
+        {
+            "question": "¿Qué implica la 'reingeniería de procesos' durante la implantación de un ERP?",
+            "options": [
+                "Mantener los procesos antiguos sin cambios",
+                "Rediseñar procesos para alinearlos con las mejores prácticas del ERP",
+                "Eliminar todos los procesos manuales",
+                "Contratar consultores externos para todo"
+            ],
+            "answer": "Rediseñar procesos para alinearlos con las mejores prácticas del ERP"
+        },
+        {
+            "question": "¿Qué herramienta de Odoo permite previsualizar cambios en vistas antes de guardarlos?",
+            "options": [
+                "Editor XML estático",
+                "Modo desarrollador con vista previa en tiempo real",
+                "Consola de SQL",
+                "Herramienta de migración de datos"
+            ],
+            "answer": "Modo desarrollador con vista previa en tiempo real"
+        },
+        {
+            "question": "¿Qué tipo de empresas necesitan módulos de gestión de inventario en tiempo real?",
+            "options": [
+                "Consultorías legales",
+                "Tiendas online con alto volumen de ventas",
+                "Agencias de publicidad",
+                "Empresas de transporte"
+            ],
+            "answer": "Tiendas online con alto volumen de ventas"
+        },
+        {
+            "question": "¿Qué se recomienda para gestionar la resistencia al cambio en los usuarios durante la implantación?",
+            "options": [
+                "Ignorar las quejas y forzar la adopción",
+                "Capacitación continua y comunicación clara",
+                "Reducir el acceso al sistema",
+                "Limitar las pruebas de usuario"
+            ],
+            "answer": "Capacitación continua y comunicación clara"
+        },
+        {
+            "question": "¿Qué función cumple el 'Documento de Diseño del Software (SDD)'?",
+            "options": [
+                "Listar requisitos funcionales generales",
+                "Detallar la arquitectura técnica y relaciones entre módulos",
+                "Documentar errores post-implantación",
+                "Gestionar permisos de usuarios finales"
+            ],
+            "answer": "Detallar la arquitectura técnica y relaciones entre módulos"
+        },
+        {
+            "question": "¿Qué tipo de prueba verifica que un usuario solo vea datos de su departamento en Odoo?",
+            "options": [
+                "Prueba de rendimiento",
+                "Prueba de seguridad y permisos",
+                "Prueba de integración",
+                "Prueba de estrés"
+            ],
+            "answer": "Prueba de seguridad y permisos"
+        },
+        {
+            "question": "¿Qué permite la función 'heredar de vista' en Odoo?",
+            "options": [
+                "Crear una vista desde cero sin relación con otras",
+                "Modificar una vista existente sin afectar la original",
+                "Eliminar todas las vistas predeterminadas",
+                "Restringir el acceso a vistas específicas"
+            ],
+            "answer": "Modificar una vista existente sin afectar la original"
+        },
+        {
+            "question": "¿Qué es esencial en la fase de 'auditoría post-implantación' de un ERP?",
+            "options": [
+                "Comparar resultados reales con los objetivos iniciales",
+                "Desarrollar nuevos módulos personalizados",
+                "Ignorar los comentarios de los usuarios",
+                "Eliminar registros históricos"
+            ],
+            "answer": "Comparar resultados reales con los objetivos iniciales"
+        },
+        {
+            "question": "¿Qué módulo de Odoo gestiona el seguimiento de interacciones con clientes?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Contabilidad",
+                "Proyectos"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué se recomienda para garantizar la seguridad de los datos durante la migración?",
+            "options": [
+                "Usar conexiones HTTP no seguras",
+                "Realizar copias de seguridad previas",
+                "Ignorar la validación de datos",
+                "Permitir acceso público a la base de datos"
+            ],
+            "answer": "Realizar copias de seguridad previas"
+        },
+        {
+            "question": "¿Qué tipo de campo se usa en Odoo para registrar la disponibilidad de un producto en almacén?",
+            "options": [
+                "many2many",
+                "float (número decimal)",
+                "boolean (verdadero/falso)",
+                "date (fecha)"
+            ],
+            "answer": "float (número decimal)"
+        },
+        {
+            "question": "¿Qué acción facilita la adaptación de los usuarios a un nuevo ERP?",
+            "options": [
+                "Limitar el acceso al sistema",
+                "Ofrecer capacitación práctica y guías",
+                "Ocultar funciones complejas",
+                "Posponer las pruebas de usuario"
+            ],
+            "answer": "Ofrecer capacitación práctica y guías"
+        },
+        {
+            "question": "¿Qué representa el modelo 'res.partner' en Odoo?",
+            "options": [
+                "Facturas y pagos",
+                "Clientes, proveedores y contactos generales",
+                "Gestión de proyectos",
+                "Control de inventario"
+            ],
+            "answer": "Clientes, proveedores y contactos generales"
+        },
+        {
+            "question": "¿Qué etapa del ciclo de vida del ERP incluye la estabilización del sistema?",
+            "options": [
+                "Selección",
+                "Puesta en marcha",
+                "Desarrollo",
+                "Adopción"
+            ],
+            "answer": "Puesta en marcha"
+        },
+        {
+            "question": "¿Qué herramienta se usa para crear reglas de acceso granular en Odoo?",
+            "options": [
+                "Editor de menús",
+                "Gestión de grupos y permisos",
+                "Consola de comandos",
+                "Herramienta de migración"
+            ],
+            "answer": "Gestión de grupos y permisos"
+        },
+        {
+            "question": "¿Qué caracteriza a un ERP de código abierto como Odoo?",
+            "options": [
+                "Costes de licencia elevados",
+                "Personalización limitada",
+                "Acceso al código fuente para modificaciones",
+                "Soporte técnico exclusivo por suscripción"
+            ],
+            "answer": "Acceso al código fuente para modificaciones"
+        },
+        {
+            "question": "¿Qué función cumple el módulo 'Ventas' en Odoo para una PYME?",
+            "options": [
+                "Gestionar nóminas de empleados",
+                "Administrar pedidos, facturas y entregas de clientes",
+                "Controlar procesos de producción industrial",
+                "Monitorear servidores de red"
+            ],
+            "answer": "Administrar pedidos, facturas y entregas de clientes"
+        },
+        {
+            "question": "¿Qué se define como 'vista árbol' (tree view) en Odoo?",
+            "options": [
+                "Una representación gráfica de datos en formato de tarjetas",
+                "Una lista tabular de registros con columnas personalizables",
+                "Un diagrama de Gantt para gestión de proyectos",
+                "Un calendario interactivo para eventos"
+            ],
+            "answer": "Una lista tabular de registros con columnas personalizables"
+        },
+        {
+            "question": "¿Qué acción es clave durante la fase de 'conversión de datos' en la implantación?",
+            "options": [
+                "Ignorar datos históricos",
+                "Validar la integridad y precisión de los datos migrados",
+                "Eliminar todos los registros antiguos",
+                "Utilizar datos ficticios para pruebas"
+            ],
+            "answer": "Validar la integridad y precisión de los datos migrados"
+        },
+        {
+            "question": "¿Qué permite el campo 'many2many' en Odoo?",
+            "options": [
+                "Una relación uno a uno entre objetos",
+                "Una relación donde un registro puede vincularse a múltiples registros de otro modelo y viceversa",
+                "Un campo de solo lectura para notas internas",
+                "Un enlace a una URL externa"
+            ],
+            "answer": "Una relación donde un registro puede vincularse a múltiples registros de otro modelo y viceversa"
+        },
+        {
+            "question": "¿Qué módulo de Odoo se utiliza para gestionar el stock en tiempo real?",
+            "options": [
+                "CRM",
+                "Inventario",
+                "Contabilidad",
+                "Recursos Humanos"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué es un 'módulo personalizado' en Odoo?",
+            "options": [
+                "Una plantilla predefinida por el sistema",
+                "Un complemento desarrollado para cubrir necesidades específicas de una empresa",
+                "Una herramienta de análisis financiero",
+                "Un informe estándar para auditorías"
+            ],
+            "answer": "Un complemento desarrollado para cubrir necesidades específicas de una empresa"
+        },
+        {
+            "question": "¿Qué se entiende por 'pruebas de estrés' en un ERP?",
+            "options": [
+                "Evaluar el rendimiento del sistema bajo cargas de trabajo extremas",
+                "Verificar la usabilidad de la interfaz",
+                "Probar la integración con redes sociales",
+                "Validar permisos de usuario"
+            ],
+            "answer": "Evaluar el rendimiento del sistema bajo cargas de trabajo extremas"
+        },
+        {
+            "question": "¿Qué opción describe mejor el propósito del 'plan contable' en un ERP?",
+            "options": [
+                "Gestionar la rotación de empleados",
+                "Organizar las transacciones financieras según normas contables",
+                "Controlar el inventario en almacenes",
+                "Automatizar campañas de marketing"
+            ],
+            "answer": "Organizar las transacciones financieras según normas contables"
+        },
+        {
+            "question": "¿Qué herramienta en Odoo permite crear reglas automáticas para actualizar inventario?",
+            "options": [
+                "Reglas de reabastecimiento",
+                "Vistas Kanban",
+                "Informes QWeb",
+                "Herramienta de traducción"
+            ],
+            "answer": "Reglas de reabastecimiento"
+        },
+        {
+            "question": "¿Qué característica de Odoo facilita la gestión de empresas multilingües?",
+            "options": [
+                "Soporte integrado para traducción de campos",
+                "Módulo de control de acceso geográfico",
+                "Herramientas de cifrado de datos",
+                "Informes financieros prediseñados"
+            ],
+            "answer": "Soporte integrado para traducción de campos"
+        },
+        {
+            "question": "¿Qué permite la opción 'Modo desarrollador' en Odoo?",
+            "options": [
+                "Limitar el acceso a funciones básicas",
+                "Crear y personalizar modelos, vistas y menús técnicamente",
+                "Generar informes financieros automáticos",
+                "Restringir permisos de usuarios temporales"
+            ],
+            "answer": "Crear y personalizar modelos, vistas y menús técnicamente"
+        },
+        {
+            "question": "¿Qué tipo de empresas se benefician más de un módulo de 'gestión de proyectos' en su ERP?",
+            "options": [
+                "Tiendas minoristas",
+                "Empresas de consultoría o desarrollo de software",
+                "Fábricas de producción masiva",
+                "Restaurantes de comida rápida"
+            ],
+            "answer": "Empresas de consultoría o desarrollo de software"
+        },
+        {
+            "question": "¿Qué representa el término 'Best Practice' en la implantación de un ERP?",
+            "options": [
+                "Prácticas obsoletas descartadas por la industria",
+                "Métodos estándar optimizados y validados para procesos clave",
+                "Personalizaciones extremas sin validación",
+                "Pruebas no documentadas"
+            ],
+            "answer": "Métodos estándar optimizados y validados para procesos clave"
+        },
+        {
+            "question": "¿Qué herramienta se usa en Odoo para crear flujos de trabajo automatizados?",
+            "options": [
+                "Reglas de automatización (Automation Rules)",
+                "Vistas Gantt",
+                "Editor de código Python",
+                "Informes QWeb estáticos"
+            ],
+            "answer": "Reglas de automatización (Automation Rules)"
+        },
+        {
+            "question": "¿Qué problema resuelve el 'módulo de contabilidad analítica' en un ERP?",
+            "options": [
+                "Gestionar redes sociales",
+                "Segmentar costes e ingresos por proyectos o departamentos",
+                "Controlar acceso físico a oficinas",
+                "Automatizar campañas de email marketing"
+            ],
+            "answer": "Segmentar costes e ingresos por proyectos o departamentos"
+        },
+        {
+            "question": "¿Qué acción es esencial durante la fase de 'estabilización' post-implantación?",
+            "options": [
+                "Ignorar feedback de usuarios",
+                "Corregir errores críticos y ajustar procesos",
+                "Eliminar registros antiguos",
+                "Desactivar módulos clave"
+            ],
+            "answer": "Corregir errores críticos y ajustar procesos"
+        },
+        {
+            "question": "¿Qué campo en Odoo se utiliza para vincular un producto a múltiples categorías?",
+            "options": [
+                "many2one",
+                "one2many",
+                "many2many",
+                "char"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué documento técnico describe cómo se implementarán los requisitos del usuario?",
+            "options": [
+                "SRD (Especificación de Requisitos)",
+                "SDD (Diseño del Software)",
+                "Manual de usuario",
+                "Plan de marketing"
+            ],
+            "answer": "SDD (Diseño del Software)"
+        },
+        {
+            "question": "¿Qué caracteriza a la 'integración vertical' en módulos ERP?",
+            "options": [
+                "Cubrir todas las funciones de un área específica (ej: ventas)",
+                "Conectar sistemas de diferentes empresas",
+                "Limitarse a funciones básicas sin personalización",
+                "Usar solo herramientas externas"
+            ],
+            "answer": "Cubrir todas las funciones de un área específica (ej: ventas)"
+        },
+        {
+            "question": "¿Qué permite la función 'XPath' en la herencia de vistas de Odoo?",
+            "options": [
+                "Modificar secciones específicas de una vista XML",
+                "Eliminar toda la estructura de una vista",
+                "Crear bases de datos independientes",
+                "Generar informes en PDF automáticamente"
+            ],
+            "answer": "Modificar secciones específicas de una vista XML"
+        },
+        {
+            "question": "¿Qué ventajas ofrece un sistema ERP para la gestión empresarial?",
+            "options": [
+                "Centralización de datos",
+                "Automatización de procesos",
+                "Mejora en la toma de decisiones",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué acciones son contraproducentes durante la implantación de un ERP?",
+            "options": [
+                "Ignorar la formación de usuarios",
+                "Saltar la migración de datos históricos",
+                "No realizar pruebas de integración",
+                "Todas erroneas"
+            ],
+            "answer": "Todas erroneas"
+        },
+        {
+            "question": "¿Qué módulo de Odoo gestiona el control de inventario?",
+            "options": [
+                "CRM",
+                "Ventas",
+                "Inventario",
+                "Recursos Humanos"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué características definen a un ERP modular?",
+            "options": [
+                "Adaptabilidad a necesidades específicas",
+                "Escalabilidad según el crecimiento de la empresa",
+                "Integración entre módulos funcionales",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué afirmaciones son falsas sobre el ciclo de vida de un ERP?",
+            "options": [
+                "La fase de selección no requiere análisis técnico",
+                "La puesta en marcha omite la formación de usuarios",
+                "La auditoría post-implantación es opcional",
+                "Todas erroneas"
+            ],
+            "answer": "Todas erroneas"
+        },
+        {
+            "question": "¿Qué módulos suelen incluirse en un ERP para PYMES?",
+            "options": [
+                "Ventas y CRM",
+                "Contabilidad y facturación",
+                "Gestión de proyectos",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué acciones son críticas en la fase de implantación?",
+            "options": [
+                "Migrar datos sin validación",
+                "Ignorar la formación de usuarios",
+                "Saltar pruebas de integración",
+                "Todas erroneas"
+            ],
+            "answer": "Todas erroneas"
+        },
+        {
+            "question": "¿Qué permite la vista Kanban en Odoo?",
+            "options": [
+                "Visualizar tareas en tarjetas",
+                "Organizar flujos de trabajo",
+                "Priorizar actividades",
+                "Todas correctas"
+            ],
+            "answer": "Organizar flujos de trabajo"
+        },
+        {
+            "question": "¿Qué NO es un riesgo en la implantación de un ERP?",
+            "options": [
+                "Sobrepasar el presupuesto",
+                "Fallos en la migración de datos",
+                "Aumento de productividad inmediato",
+                "Todas erroneas"
+            ],
+            "answer": "Aumento de productividad inmediato"
+        },
+        {
+            "question": "¿Qué campo define una relación 'muchos a uno' en Odoo?",
+            "options": [
+                "many2one",
+                "one2many",
+                "many2many",
+                "char"
+            ],
+            "answer": "many2one"
+        },
+        {
+            "question": "¿Qué incluye el SDD (Documento de Diseño del Software)?",
+            "options": [
+                "Arquitectura técnica",
+                "Relaciones entre módulos",
+                "Especificaciones de hardware",
+                "Todas correctas"
+            ],
+            "answer": "Arquitectura técnica"
+        },
+        {
+            "question": "¿Qué NO es un tipo de prueba en la implantación de ERP?",
+            "options": [
+                "Pruebas de usabilidad",
+                "Pruebas de estrés",
+                "Pruebas de integración",
+                "Todas erroneas"
+            ],
+            "answer": "Pruebas de usabilidad"
+        },
+        {
+            "question": "¿Qué módulo gestiona el seguimiento de clientes en Odoo?",
+            "options": [
+                "CRM",
+                "Inventario",
+                "Contabilidad",
+                "Proyectos"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué ventajas tiene un ERP en la Administración Pública?",
+            "options": [
+                "Gestión centralizada de proyectos",
+                "Automatización de tasas municipales",
+                "Transparencia en procesos",
+                "Todas correctas"
+            ],
+            "answer": "Automatización de tasas municipales"
+        },
+        {
+            "question": "¿Qué NO es un módulo común en ERP para retail?",
+            "options": [
+                "Punto de venta (TPV)",
+                "Gestión de lotes",
+                "Control de comisiones",
+                "Todas erroneas"
+            ],
+            "answer": "Control de comisiones"
+        },
+        {
+            "question": "¿Qué ventajas tiene un ERP para PYMES?",
+            "options": [
+                "Centralización",
+                "Automatización",
+                "Escalabilidad",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué acciones son errores en implantación?",
+            "options": [
+                "Saltar pruebas",
+                "Ignorar usuarios",
+                "No hacer copias",
+                "Todas erroneas"
+            ],
+            "answer": "Todas erroneas"
+        },
+        {
+            "question": "¿Qué módulo gestiona el cálculo de nóminas en Odoo?",
+            "options": [
+                "Recursos Humanos",
+                "Contabilidad",
+                "Proyectos",
+                "CRM"
+            ],
+            "answer": "Recursos Humanos"
+        },
+        {
+            "question": "¿Qué permite la herramienta 'Reglas de reabastecimiento'?",
+            "options": [
+                "Automatizar compras por stock mínimo",
+                "Generar facturas",
+                "Crear informes PDF",
+                "Todas correctas"
+            ],
+            "answer": "Automatizar compras por stock mínimo"
+        },
+        {
+            "question": "¿Qué NO es parte de la fase de 'puesta en marcha'?",
+            "options": [
+                "Estabilización del sistema",
+                "Formación de usuarios",
+                "Desarrollo de código",
+                "Corrección de errores"
+            ],
+            "answer": "Desarrollo de código"
+        },
+        {
+            "question": "¿Qué vista muestra tareas en un cronograma temporal?",
+            "options": [
+                "Kanban",
+                "Gantt",
+                "Árbol",
+                "Formulario"
+            ],
+            "answer": "Gantt"
+        },
+        {
+            "question": "¿Qué campo se usa para registrar la fecha de creación de un registro en Odoo?",
+            "options": [
+                "create_date",
+                "x_fecha_creacion",
+                "start_date",
+                "date_created"
+            ],
+            "answer": "create_date"
+        },
+        {
+            "question": "¿Qué empresa necesita un módulo de 'gestión de lotes'?",
+            "options": [
+                "Restaurante",
+                "Farmacéutica",
+                "Consultoría",
+                "Todas correctas"
+            ],
+            "answer": "Farmacéutica"
+        },
+        {
+            "question": "¿Qué documento compara resultados reales vs. planificados post-implantación?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Informe de auditoría",
+                "Manual técnico"
+            ],
+            "answer": "Informe de auditoría"
+        },
+        {
+            "question": "¿Qué NO es una ventaja de adaptar la empresa al ERP?",
+            "options": [
+                "Facilidad de actualizaciones",
+                "Reducción de costes",
+                "Personalización ilimitada",
+                "Todas son ventajas"
+            ],
+            "answer": "Personalización ilimitada"
+        },
+        {
+            "question": "¿Qué permite la opción 'Modo desarrollador' en Odoo?",
+            "options": [
+                "Editar modelos técnicos",
+                "Restringir accesos",
+                "Generar facturas",
+                "Todas correctas"
+            ],
+            "answer": "Editar modelos técnicos"
+        },
+        {
+            "question": "¿Qué tipo de prueba evalúa el rendimiento bajo alta demanda?",
+            "options": [
+                "Integración",
+                "Estrés",
+                "Unitarias",
+                "Usabilidad"
+            ],
+            "answer": "Estrés"
+        },
+        {
+            "question": "¿Qué módulo gestiona el padrón municipal en ayuntamientos?",
+            "options": [
+                "CRM",
+                "Gestión de tasas",
+                "Inventario",
+                "Recursos Humanos"
+            ],
+            "answer": "Gestión de tasas"
+        },
+        {
+            "question": "¿Qué relación usa Odoo para vincular un producto a múltiples categorías?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "char"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué NO es un tipo de integración en pruebas?",
+            "options": [
+                "Incremental",
+                "No incremental",
+                "Aleatoria",
+                "Todas son tipos"
+            ],
+            "answer": "Aleatoria"
+        },
+        {
+            "question": "¿Qué herramienta se usa para crear menús personalizados en Odoo?",
+            "options": [
+                "Editor XML",
+                "Gestión de grupos",
+                "Ajustes/Técnico",
+                "Todas correctas"
+            ],
+            "answer": "Ajustes/Técnico"
+        },
+        {
+            "question": "¿Qué fase implica la reingeniería de procesos?",
+            "options": [
+                "Adopción",
+                "Selección",
+                "Implantación",
+                "Desarrollo"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "question": "¿Qué permite el campo 'boolean' en Odoo?",
+            "options": [
+                "Verdadero/Falso",
+                "Números decimales",
+                "Fechas",
+                "Texto"
+            ],
+            "answer": "Verdadero/Falso"
+        },
+        {
+            "question": "¿Qué documento describe requisitos funcionales sin detalles técnicos?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Manual de usuario",
+                "Informe de auditoría"
+            ],
+            "answer": "SRD"
+        },
+        {
+            "question": "¿Qué empresa usaría el módulo 'Gestión de proyectos'?",
+            "options": [
+                "Agencia de marketing",
+                "Fábrica textil",
+                "Supermercado",
+                "Todas correctas"
+            ],
+            "answer": "Agencia de marketing"
+        },
+        {
+            "question": "¿Qué riesgo surge al personalizar en exceso un ERP?",
+            "options": [
+                "Mayor seguridad",
+                "Dificultad en actualizaciones",
+                "Reducción de costes",
+                "Todas correctas"
+            ],
+            "answer": "Dificultad en actualizaciones"
+        },
+        {
+            "question": "¿Qué vista permite editar registros individuales en Odoo?",
+            "options": [
+                "Árbol",
+                "Kanban",
+                "Formulario",
+                "Gantt"
+            ],
+            "answer": "Formulario"
+        },
+        {
+            "question": "¿Qué NO es un módulo de Odoo?",
+            "options": [
+                "CRM",
+                "Ventas",
+                "Control de drones",
+                "Inventario"
+            ],
+            "answer": "Control de drones"
+        },
+        {
+            "question": "¿Qué herramienta migra datos desde sistemas antiguos?",
+            "options": [
+                "CSV",
+                "XML",
+                "Python",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué caracteriza a un ERP open-source?",
+            "options": [
+                "Código accesible",
+                "Licencias costosas",
+                "Personalización limitada",
+                "Todas correctas"
+            ],
+            "answer": "Código accesible"
+        },
+        {
+            "question": "¿Qué permite la opción 'Herencia de modelos' en Odoo?",
+            "options": [
+                "Crear modelos desde cero",
+                "Extender funcionalidades de modelos existentes",
+                "Eliminar modelos base",
+                "Todas correctas"
+            ],
+            "answer": "Extender funcionalidades de modelos existentes"
+        },
+        {
+            "question": "¿Qué NO es un tipo de prueba en la implantación de ERP?",
+            "options": [
+                "Pruebas de carga",
+                "Pruebas de compatibilidad",
+                "Pruebas de colores de interfaz",
+                "Todas son pruebas válidas"
+            ],
+            "answer": "Pruebas de colores de interfaz"
+        },
+        {
+            "question": "¿Qué módulo gestiona la facturación electrónica en Odoo?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Proyectos",
+                "Todas correctas"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué caracteriza a un ERP para el sector público?",
+            "options": [
+                "Gestión de proyectos internos",
+                "Automatización de tasas municipales",
+                "Control de inventario en tiempo real",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué herramienta se usa para depurar errores en Odoo?",
+            "options": [
+                "Modo desarrollador",
+                "Reglas de reabastecimiento",
+                "Vistas Kanban",
+                "Todas correctas"
+            ],
+            "answer": "Modo desarrollador"
+        },
+        {
+            "question": "¿Qué campo registra la última fecha de modificación de un registro?",
+            "options": [
+                "write_date",
+                "update_date",
+                "last_modified",
+                "Todas erroneas"
+            ],
+            "answer": "write_date"
+        },
+        {
+            "question": "¿Qué NO es un beneficio de usar vistas heredadas?",
+            "options": [
+                "Mantener personalizaciones tras actualizaciones",
+                "Evitar conflictos con módulos base",
+                "Reducir tiempo de carga de páginas",
+                "Todas son beneficios"
+            ],
+            "answer": "Reducir tiempo de carga de páginas"
+        },
+        {
+            "question": "¿Qué módulo gestiona las solicitudes de empleo en Odoo?",
+            "options": [
+                "Recursos Humanos",
+                "CRM",
+                "Inventario",
+                "Todas correctas"
+            ],
+            "answer": "Recursos Humanos"
+        },
+        {
+            "question": "¿Qué etapa sigue a la implantación en el ciclo de vida del ERP?",
+            "options": [
+                "Producción y soporte",
+                "Auditoría técnica",
+                "Reingeniería de procesos",
+                "Todas correctas"
+            ],
+            "answer": "Producción y soporte"
+        },
+        {
+            "question": "¿Qué permite el módulo 'Ventas' en Odoo?",
+            "options": [
+                "Gestionar presupuestos",
+                "Crear órdenes de venta",
+                "Facturar clientes",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué tipo de relación se usa para vincular un empleado a su departamento?",
+            "options": [
+                "many2one",
+                "one2many",
+                "many2many",
+                "char"
+            ],
+            "answer": "many2one"
+        },
+        {
+            "question": "¿Qué documento detalla las especificaciones técnicas del ERP?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Manual de usuario",
+                "Todas correctas"
+            ],
+            "answer": "SDD"
+        },
+        {
+            "question": "¿Qué NO es una función del módulo 'Inventario'?",
+            "options": [
+                "Gestión de stock",
+                "Rastreo de lotes",
+                "Cálculo de nóminas",
+                "Todas son funciones"
+            ],
+            "answer": "Cálculo de nóminas"
+        },
+        {
+            "question": "¿Qué se recomienda para evitar errores en migración de datos?",
+            "options": [
+                "Validar datos antes de importar",
+                "Usar formatos CSV/XML",
+                "Hacer copias de seguridad",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué caracteriza a la fase de 'auditoría post-implantación'?",
+            "options": [
+                "Comparar resultados con objetivos",
+                "Eliminar módulos no usados",
+                "Contratar nuevos consultores",
+                "Todas correctas"
+            ],
+            "answer": "Comparar resultados con objetivos"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar campañas de email marketing?",
+            "options": [
+                "CRM",
+                "Marketing Automation",
+                "Ventas",
+                "Todas correctas"
+            ],
+            "answer": "Marketing Automation"
+        },
+        {
+            "question": "¿Qué NO es parte del modelo de objetos en Odoo?",
+            "options": [
+                "Vistas heredadas",
+                "Campos calculados",
+                "Relaciones many2one",
+                "Todas son parte"
+            ],
+            "answer": "Todas son parte"
+        },
+        {
+            "question": "¿Qué permite el módulo 'Marketing Automation' en Odoo?",
+            "options": [
+                "Automatizar campañas de email",
+                "Segmentar clientes",
+                "Generar leads",
+                "Todas correctas"
+            ],
+            "answer": "Todas correctas"
+        },
+        {
+            "question": "¿Qué NO es un tipo de vista en Odoo?",
+            "options": [
+                "Formulario",
+                "Árbol",
+                "Mapa térmico",
+                "Kanban"
+            ],
+            "answer": "Mapa térmico"
+        },
+        {
+            "question": "¿Qué campo se usa para registrar comentarios internos en un registro?",
+            "options": [
+                "x_comments",
+                "notes",
+                "description",
+                "Todas correctas"
+            ],
+            "answer": "notes"
+        },
+        {
+            "question": "¿Qué fase del ERP implica la auditoría de resultados?",
+            "options": [
+                "Selección",
+                "Puesta en marcha",
+                "Producción",
+                "Implantación"
+            ],
+            "answer": "Puesta en marcha"
+        },
+        {
+            "question": "¿Qué módulo gestiona la planificación de tareas en equipo?",
+            "options": [
+                "Proyectos",
+                "Recursos Humanos",
+                "Ventas",
+                "Todas correctas"
+            ],
+            "answer": "Proyectos"
+        },
+        {
+            "question": "¿Qué herramienta permite crear informes personalizados en PDF?",
+            "options": [
+                "QWeb",
+                "CSV",
+                "XML",
+                "Todas correctas"
+            ],
+            "answer": "QWeb"
+        },
+        {
+            "question": "¿Qué NO es un tipo de integración en Odoo?",
+            "options": [
+                "Vertical",
+                "Horizontal",
+                "Diagonal",
+                "Todas son válidas"
+            ],
+            "answer": "Diagonal"
+        },
+        {
+            "question": "¿Qué permite el campo 'selection' en Odoo?",
+            "options": [
+                "Lista desplegable de opciones",
+                "Relacionar dos modelos",
+                "Validar números enteros",
+                "Todas correctas"
+            ],
+            "answer": "Lista desplegable de opciones"
+        },
+        {
+            "question": "¿Qué empresa necesita un ERP con módulo de rastreo de lotes?",
+            "options": [
+                "Farmacéutica",
+                "Consultoría",
+                "Tienda minorista",
+                "Todas correctas"
+            ],
+            "answer": "Farmacéutica"
+        },
+        {
+            "question": "¿Qué documento define los requisitos técnicos del ERP?",
+            "options": [
+                "SRD",
+                "SDD",
+                "Manual de usuario",
+                "Todas correctas"
+            ],
+            "answer": "SDD"
+        },
+        {
+            "question": "¿Qué razones tecnológicas impulsan la adopción de un ERP según la Unidad 4?",
+            "options": [
+                "Sistemas obsoletos con baja integración",
+                "Mejorar la imagen corporativa",
+                "Reducir costes de marketing",
+                "Aumentar la publicidad digital"
+            ],
+            "answer": "Sistemas obsoletos con baja integración"
+        },
+        {
+            "question": "¿Qué motivo estratégico justifica la implantación de un ERP?",
+            "options": [
+                "Automatizar campañas en redes sociales",
+                "Alinear procesos con estrategias de negocio orientadas al cliente",
+                "Contratar más personal administrativo",
+                "Incrementar el uso de papel en la empresa"
+            ],
+            "answer": "Alinear procesos con estrategias de negocio orientadas al cliente"
+        },
+        {
+            "question": "¿Qué problema resuelve un ERP en empresas con múltiples sistemas heredados?",
+            "options": [
+                "Falta de personal cualificado",
+                "Diversidad de sistemas que limitan la integración de datos",
+                "Exceso de velocidad en los procesos",
+                "Bajo costo de licencias"
+            ],
+            "answer": "Diversidad de sistemas que limitan la integración de datos"
+        },
+        {
+            "question": "¿Qué razón competitiva se menciona para adoptar un ERP?",
+            "options": [
+                "Tener ventaja frente a competidores que ya usan ERP",
+                "Reducir la calidad del producto",
+                "Eliminar la necesidad de formación",
+                "Depender de proveedores externos"
+            ],
+            "answer": "Tener ventaja frente a competidores que ya usan ERP"
+        },
+        {
+            "question": "¿Qué motivo de procesos de negocio impulsa la adopción de un ERP?",
+            "options": [
+                "Aumentar la burocracia",
+                "Mejorar la eficiencia en procesos críticos",
+                "Limitar el acceso a informes",
+                "Evitar la automatización"
+            ],
+            "answer": "Mejorar la eficiencia en procesos críticos"
+        },
+        {
+            "question": "¿Qué situación ejemplifica una razón tecnológica para adoptar un ERP?",
+            "options": [
+                "La empresa quiere lanzar un nuevo producto",
+                "Los sistemas actuales fallan frecuentemente",
+                "Se necesita más espacio físico",
+                "Aumentar el presupuesto de publicidad"
+            ],
+            "answer": "Los sistemas actuales fallan frecuentemente"
+        },
+        {
+            "question": "¿Qué razón estratégica se relaciona con la adopción de un ERP en ayuntamientos?",
+            "options": [
+                "Automatizar la gestión de tasas municipales",
+                "Reducir la atención al ciudadano",
+                "Eliminar el padrón municipal",
+                "Limitar la transparencia"
+            ],
+            "answer": "Automatizar la gestión de tasas municipales"
+        },
+        {
+            "question": "¿Qué beneficio se busca al adoptar un ERP por razones de procesos de negocio?",
+            "options": [
+                "Reducir el tiempo de cierre financiero",
+                "Aumentar los errores manuales",
+                "Dificultar la toma de decisiones",
+                "Centralizar la desconexión de datos"
+            ],
+            "answer": "Reducir el tiempo de cierre financiero"
+        },
+        {
+            "question": "¿Qué justifica la adopción de un ERP en empresas con adquisiciones recientes?",
+            "options": [
+                "Facilitar la integración de sistemas de empresas adquiridas",
+                "Aumentar la complejidad operativa",
+                "Mantener sistemas independientes",
+                "Evitar la estandarización"
+            ],
+            "answer": "Facilitar la integración de sistemas de empresas adquiridas"
+        },
+        {
+            "question": "¿Qué motivo competitivo se destaca en el PDF para adoptar un ERP?",
+            "options": [
+                "Copiar estrategias de la competencia sin análisis",
+                "Acceder a informes rápidos para decisiones estratégicas",
+                "Ignorar las tendencias del mercado",
+                "Reducir la inversión en tecnología"
+            ],
+            "answer": "Acceder a informes rápidos para decisiones estratégicas"
+        },
+        {
+            "question": "¿Cuál es el primer paso en la fase de selección del sistema ERP según el documento?",
+            "options": [
+                "Hacer un análisis riguroso de la situación",
+                "Definir las funcionalidades que se quieren cubrir con el sistema ERP",
+                "Determinar cuáles son los procesos críticos y las áreas que están implicadas en ellos",
+                "Contratar una consultora externa"
+            ],
+            "answer": "Hacer un análisis riguroso de la situación"
+        },
+        {
+            "question": "¿Qué tipo de relación entre objetos permite que un campo en un modelo pueda estar relacionado con varios elementos en Odoo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "Todos los anteriores son correctos"
+            ],
+            "answer": "one2many"
+        },
+        {
+            "question": "¿Qué ocurre si un usuario no pertenece a ningún grupo en Odoo?",
+            "options": [
+                "No puede acceder a ningún menú ni dato",
+                "Tiene acceso limitado a ciertos datos básicos",
+                "Puede acceder a todos los menús y datos",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "No puede acceder a ningún menú ni dato"
+        },
+        {
+            "question": "¿Cuál es el nombre técnico del objeto que se utiliza para acceder a los datos concernientes a los colaboradores o socios en Odoo?",
+            "options": [
+                "res.partner",
+                "account.invoice",
+                "product.template",
+                "sales.order"
+            ],
+            "answer": "res.partner"
+        },
+        {
+            "question": "¿Qué método se recomienda para evitar problemas durante las actualizaciones del sistema al modificar vistas existentes en Odoo?",
+            "options": [
+                "Editar directamente la vista original",
+                "Crear una nueva vista heredada",
+                "Eliminar la vista original y crear una nueva desde cero",
+                "Todas las opciones son correctas"
+            ],
+            "answer": "Crear una nueva vista heredada"
+        },
+        {
+            "question": "¿Cuál es el propósito principal de un tablero en Odoo?",
+            "options": [
+                "Agrupar varias vistas en un solo interfaz de usuario",
+                "Mostrar información detallada de un único registro",
+                "Permitir la edición masiva de registros",
+                "Todas las opciones son correctas"
+            ],
+            "answer": "Agrupar varias vistas en un solo interfaz de usuario"
+        },
+        {
+            "question": "¿Qué tipo de informe se crea por defecto en Odoo cuando se genera una factura para un cliente?",
+            "options": [
+                "Un informe en formato PDF",
+                "Un informe en formato HTML",
+                "Un informe en formato de texto plano",
+                "Todos los anteriores son correctos"
+            ],
+            "answer": "Un informe en formato PDF"
+        },
+        {
+            "question": "¿Cuál es el primer paso en la metodología de implantación de un sistema ERP descrita en el documento?",
+            "options": [
+                "Análisis detallado",
+                "Estudiar el ámbito del proyecto",
+                "Adquisición del hardware",
+                "Plan de implantación"
+            ],
+            "answer": "Estudiar el ámbito del proyecto"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en XML para ocultar un elemento en una vista de Odoo?",
+            "options": [
+                "hidden='true'",
+                "invisible='1'",
+                "display='none'",
+                "Todas las opciones son correctas"
+            ],
+            "answer": "invisible='1'"
+        },
+        {
+            "question": "¿Qué característica define a una vista dinámica en Odoo?",
+            "options": [
+                "Se crea dentro del código de la aplicación y no puede ser modificada",
+                "Puede ser modificada por parte del usuario",
+                "Se almacena en un lenguaje de descripción de datos como XML",
+                "Ambas B y C son correctas"
+            ],
+            "answer": "Ambas B y C son correctas"
+        }
+    ]
+}
