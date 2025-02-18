@@ -1,0 +1,1604 @@
+{
+    "quiz": [
+        {
+            "question": "¿Cuál es el propósito principal del patrón Modelo-Vista-Controlador(MVC) en Odoo?",
+            "options": [
+                "Separar los datos de la presentación para mayor independencia",
+                "Unificar los datos y la interfaz de usuario en un solo archivo",
+                "Facilitar la creación de relaciones entre modelos",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Separar los datos de la presentación para mayor independencia"
+        },
+{
+            "question": "¿Qué comando se utiliza para crear automáticamente la estructura básica de un módulo en Odoo?",
+            "options": [
+                "odoo create module <nombre>",
+                "odoo scaffold <nombre> addons/",
+                "odoo generate <nombre>",
+                "odoo new-module <nombre>"
+            ],
+            "answer": "odoo scaffold <nombre> addons/"
+        },
+{
+            "question": "¿Dónde deben almacenarse los archivos XML que definen las vistas en un módulo de Odoo?",
+            "options": [
+                "En el directorio 'models/'",
+                "En el directorio 'views/'",
+                "En el directorio 'security/'",
+                "En el directorio 'static/'"
+            ],
+            "answer": "En el directorio 'views/'"
+        },
+{
+            "question": "¿Cuál es el propósito del archivo '__manifest__.py' en un módulo de Odoo?",
+            "options": [
+                "Contiene el código fuente principal del módulo",
+                "Define las dependencias y la información general del módulo",
+                "Guarda los permisos de acceso a los usuarios",
+                "Almacena los datos precargados del módulo"
+            ],
+            "answer": "Define las dependencias y la información general del módulo"
+        },
+{
+            "question": "¿Qué tipo de campo en Python permite establecer una relación uno-a-muchos en Odoo?",
+            "options": [
+                "fields.One2many",
+                "fields.Many2one",
+                "fields.Many2many",
+                "fields.Relation"
+            ],
+            "answer": "fields.One2many"
+        },
+{
+            "question": "¿Cuál es el propósito del decorador '@api.depends' en un método de cálculo en Odoo?",
+            "options": [
+                "Indica que el método depende de otros campos para su cálculo",
+                "Define el nombre del modelo asociado al método",
+                "Establece los permisos necesarios para ejecutar el método",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Indica que el método depende de otros campos para su cálculo"
+        },
+{
+            "question": "¿Qué comando se utiliza para reiniciar el servicio de Odoo desde la línea de comandos?",
+            "options": [
+                "sudo service odoo restart",
+                "sudo systemctl restart odoo",
+                "sudo reboot odoo",
+                "restart odoo"
+            ],
+            "answer": "sudo systemctl restart odoo"
+        },
+{
+            "question": "¿Qué archivo define los permisos de acceso en un módulo de Odoo?",
+            "options": [
+                "ir.model.access.csv",
+                "security.xml",
+                "permissions.csv",
+                "access_control.xml"
+            ],
+            "answer": "ir.model.access.csv"
+        },
+{
+            "question": "¿Qué característica define a un lenguaje como Python según el PDF?",
+            "options": [
+                "Es un lenguaje compilado",
+                "Es un lenguaje interpretado",
+                "Es un lenguaje estático",
+                "Es un lenguaje propietario"
+            ],
+            "answer": "Es un lenguaje interpretado"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo calculado para indicar que su valor debe ser almacenado en la base de datos?",
+            "options": [
+                "store=True",
+                "compute=True",
+                "save=True",
+                "persist=True"
+            ],
+            "answer": "store=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para actualizar la lista de aplicaciones disponibles en Odoo?",
+            "options": [
+                "Odoo update modules",
+                "Odoo refresh apps",
+                "Odoo reload applications",
+                "Odoo upgrade list"
+            ],
+            "answer": "Odoo refresh apps"
+        },
+{
+            "question": "¿Qué significa que Python sea 'tipado dinámico'?",
+            "options": [
+                "El tipo de una variable se determina en tiempo de ejecución",
+                "El tipo de una variable se declara explícitamente",
+                "Las variables no pueden cambiar de tipo",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "El tipo de una variable se determina en tiempo de ejecución"
+        },
+{
+            "question": "¿Qué extensión tienen los archivos que contienen las vistas XML en Odoo?",
+            "options": [
+                ".xml",
+                ".py",
+                ".csv",
+                ".html"
+            ],
+            "answer": ".xml"
+        },
+{
+            "question": "¿Qué ocurre si no se incluye el campo 'name' en un modelo en Odoo?",
+            "options": [
+                "El sistema generará automáticamente un campo 'name'",
+                "No se podrá establecer correctamente ninguna relación con otros modelos",
+                "El modelo funcionará sin problemas",
+                "Se creará un error durante la instalación del módulo"
+            ],
+            "answer": "No se podrá establecer correctamente ninguna relación con otros modelos"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos relacionados con la seguridad en un módulo de Odoo?",
+            "options": [
+                "models/",
+                "views/",
+                "security/",
+                "static/"
+            ],
+            "answer": "security/"
+        },
+{
+            "question": "¿Qué tipo de vista se utiliza para mostrar datos en forma de lista en Odoo?",
+            "options": [
+                "tree",
+                "form",
+                "kanban",
+                "calendar"
+            ],
+            "answer": "tree"
+        },
+{
+            "question": "¿Qué carácter se utiliza para escribir comentarios en Python?",
+            "options": [
+                "#",
+                "//",
+                "/* */",
+                "<!-- -->"
+            ],
+            "answer": "#"
+        },
+{
+            "question": "¿Qué sentencia se utiliza en Python para definir una función?",
+            "options": [
+                "function",
+                "def",
+                "define",
+                "func"
+            ],
+            "answer": "def"
+        },
+{
+            "question": "¿Qué archivo se utiliza para precargar datos en un módulo de Odoo?",
+            "options": [
+                "data.xml",
+                "preload_data.py",
+                "init_data.csv",
+                "load_data.json"
+            ],
+            "answer": "data.xml"
+        },
+{
+            "question": "¿Qué operador se utiliza en Python para realizar una división entera?",
+            "options": [
+                "/",
+                "//",
+                "%",
+                "**"
+            ],
+            "answer": "//"
+        },
+{
+            "question": "¿Qué comando se utiliza para convertirse en superusuario en Odoo?",
+            "options": [
+                "sudo odoo admin",
+                "Convertirse en superusuario",
+                "odoo superuser",
+                "admin mode on"
+            ],
+            "answer": "Convertirse en superusuario"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar números con decimales?",
+            "options": [
+                "int",
+                "float",
+                "str",
+                "bool"
+            ],
+            "answer": "float"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo Many2one para especificar el modelo relacionado?",
+            "options": [
+                "model",
+                "related_model",
+                "comodel_name",
+                "foreign_key"
+            ],
+            "answer": "comodel_name"
+        },
+{
+            "question": "¿Qué elemento XML se utiliza para definir una acción de ventana en Odoo?",
+            "options": [
+                "<action>",
+                "<window_action>",
+                "<act_window>",
+                "<view_action>"
+            ],
+            "answer": "<act_window>"
+        },
+{
+            "question": "¿Qué archivo debe modificarse para añadir un icono personalizado a un módulo en Odoo?",
+            "options": [
+                "icon.png",
+                "__manifest__.py",
+                "views.xml",
+                "static/description/icon.png"
+            ],
+            "answer": "static/description/icon.png"
+        },
+{
+            "question": "¿Qué tipo de vista permite organizar los datos en columnas y filas utilizando tarjetas en Odoo?",
+            "options": [
+                "tree",
+                "kanban",
+                "form",
+                "gantt"
+            ],
+            "answer": "kanban"
+        },
+{
+            "question": "¿Qué característica hace que Python sea multiplataforma?",
+            "options": [
+                "Solo funciona en sistemas Windows",
+                "El intérprete de Python está disponible para múltiples sistemas operativos",
+                "Requiere compilación específica para cada plataforma",
+                "Es exclusivo para sistemas Linux"
+            ],
+            "answer": "El intérprete de Python está disponible para múltiples sistemas operativos"
+        },
+{
+            "question": "¿Qué comando se utiliza para detener el servicio de Odoo desde la línea de comandos?",
+            "options": [
+                "sudo systemctl stop odoo",
+                "odoo stop",
+                "sudo service odoo halt",
+                "shutdown odoo"
+            ],
+            "answer": "sudo systemctl stop odoo"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar texto largo en Odoo?",
+            "options": [
+                "fields.Char",
+                "fields.Text",
+                "fields.String",
+                "fields.LongText"
+            ],
+            "answer": "fields.Text"
+        },
+{
+            "question": "¿Qué archivo define las acciones de menú en un módulo de Odoo?",
+            "options": [
+                "menuitems.xml",
+                "actions.xml",
+                "views.xml",
+                "security.xml"
+            ],
+            "answer": "menuitems.xml"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para representar valores booleanos?",
+            "options": [
+                "bool",
+                "boolean",
+                "True/False",
+                "logic"
+            ],
+            "answer": "bool"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo de búsqueda para filtrar registros en Odoo?",
+            "options": [
+                "domain",
+                "filter",
+                "search",
+                "query"
+            ],
+            "answer": "domain"
+        },
+{
+            "question": "¿Qué comando se utiliza para crear un nuevo grupo de seguridad en un módulo de Odoo?",
+            "options": [
+                "odoo create group",
+                "add group <nombre>",
+                "record id=\"group_<nombre>\"",
+                "group add <nombre>"
+            ],
+            "answer": "record id=\"group_<nombre>\""
+        },
+{
+            "question": "¿Qué tipo de relación se utiliza para conectar un libro con su categoría en el ejemplo del PDF?",
+            "options": [
+                "One2many",
+                "Many2one",
+                "Many2many",
+                "None of the above"
+            ],
+            "answer": "Many2one"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo Many2many para especificar el modelo relacionado?",
+            "options": [
+                "model",
+                "related_model",
+                "comodel_name",
+                "foreign_key"
+            ],
+            "answer": "comodel_name"
+        },
+{
+            "question": "¿Qué tipo de vista se utiliza para mostrar datos en un formulario editable en Odoo?",
+            "options": [
+                "tree",
+                "form",
+                "kanban",
+                "list"
+            ],
+            "answer": "form"
+        },
+{
+            "question": "¿Qué método se utiliza para calcular el valor de un campo dependiente en Odoo?",
+            "options": [
+                "compute_method",
+                "calculate_field",
+                "update_value",
+                "def compute_<campo>(self)"
+            ],
+            "answer": "def compute_<campo>(self)"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo One2many para especificar el campo relacionado?",
+            "options": [
+                "inverse_field",
+                "related_field",
+                "comodel_name",
+                "relation_field"
+            ],
+            "answer": "relation_field"
+        },
+{
+            "question": "¿Qué archivo se utiliza para definir los permisos de acceso a los modelos en un módulo de Odoo?",
+            "options": [
+                "security.xml",
+                "ir.model.access.csv",
+                "permissions.csv",
+                "access_control.xml"
+            ],
+            "answer": "ir.model.access.csv"
+        },
+{
+            "question": "¿Qué comando se utiliza para iniciar el servicio de Odoo desde la línea de comandos?",
+            "options": [
+                "sudo systemctl start odoo",
+                "odoo start",
+                "start odoo",
+                "launch odoo"
+            ],
+            "answer": "sudo systemctl start odoo"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un filtro de búsqueda para especificar la condición de filtrado en Odoo?",
+            "options": [
+                "condition",
+                "criteria",
+                "domain",
+                "filter_by"
+            ],
+            "answer": "domain"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones ordenadas de elementos?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "list"
+        },
+{
+            "question": "¿Qué directorio contiene los informes personalizados en un módulo de Odoo?",
+            "options": [
+                "reports/",
+                "templates/",
+                "views/",
+                "static/"
+            ],
+            "answer": "reports/"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar fechas en Odoo?",
+            "options": [
+                "fields.Date",
+                "fields.Time",
+                "fields.DateTime",
+                "fields.Calendar"
+            ],
+            "answer": "fields.Date"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para hacerlo obligatorio en Odoo?",
+            "options": [
+                "required=True",
+                "mandatory=True",
+                "obligatory=True",
+                "must=True"
+            ],
+            "answer": "required=True"
+        },
+        {
+            "question": "¿Qué comando se utiliza para instalar un módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo install <modulo>",
+                "sudo systemctl install odoo <modulo>",
+                "odoo module install <modulo>",
+                "sudo -u odoo odoo-bin -i <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -i <modulo>"
+        },
+{
+            "question": "¿Qué tipo de vista se utiliza para mostrar gráficos en Odoo?",
+            "options": [
+                "chart",
+                "graph",
+                "diagram",
+                "visualization"
+            ],
+            "answer": "graph"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar su etiqueta en Odoo?",
+            "options": [
+                "label",
+                "string",
+                "title",
+                "caption"
+            ],
+            "answer": "string"
+        },
+{
+            "question": "¿Qué comando se utiliza para desinstalar un módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo uninstall <modulo>",
+                "sudo systemctl uninstall odoo <modulo>",
+                "odoo module remove <modulo>",
+                "sudo -u odoo odoo-bin -u <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -u <modulo>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar números enteros en Odoo?",
+            "options": [
+                "fields.Integer",
+                "fields.Number",
+                "fields.Int",
+                "fields.Count"
+            ],
+            "answer": "fields.Integer"
+        },
+{
+            "question": "¿Qué directorio contiene los modelos en un módulo de Odoo?",
+            "options": [
+                "models/",
+                "views/",
+                "controllers/",
+                "data/"
+            ],
+            "answer": "models/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones no ordenadas de elementos únicos?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "set"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será calculado?",
+            "options": [
+                "compute",
+                "calculated",
+                "dynamic",
+                "auto"
+            ],
+            "answer": "compute"
+        },
+{
+            "question": "¿Qué comando se utiliza para acceder al registro de logs de Odoo desde la línea de comandos?",
+            "options": [
+                "odoo logs",
+                "sudo cat /var/log/odoo/odoo-server.log",
+                "log odoo",
+                "odoo log viewer"
+            ],
+            "answer": "sudo cat /var/log/odoo/odoo-server.log"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar valores booleanos en Odoo?",
+            "options": [
+                "fields.Bool",
+                "fields.Boolean",
+                "fields.Logic",
+                "fields.TrueFalse"
+            ],
+            "answer": "fields.Boolean"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos estáticos en un módulo de Odoo?",
+            "options": [
+                "static/",
+                "assets/",
+                "resources/",
+                "files/"
+            ],
+            "answer": "static/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones clave-valor?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "dict"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor no puede ser modificado?",
+            "options": [
+                "readonly=True",
+                "immutable=True",
+                "fixed=True",
+                "constant=True"
+            ],
+            "answer": "readonly=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para generar un informe PDF en Odoo?",
+            "options": [
+                "odoo report pdf",
+                "odoo generate pdf",
+                "odoo print <informe>",
+                "odoo qweb-pdf <informe>"
+            ],
+            "answer": "odoo qweb-pdf <informe>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar selecciones múltiples en Odoo?",
+            "options": [
+                "fields.Selection",
+                "fields.Multiple",
+                "fields.Choice",
+                "fields.Option"
+            ],
+            "answer": "fields.Selection"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar un valor por defecto en Odoo?",
+            "options": [
+                "default",
+                "initial",
+                "start",
+                "preset"
+            ],
+            "answer": "default"
+        },
+{
+            "question": "¿Qué comando se utiliza para crear un nuevo campo en un modelo existente en Odoo?",
+            "options": [
+                "odoo add field <campo>",
+                "add_field <campo>",
+                "new_field <campo>",
+                "defining fields in models.py"
+            ],
+            "answer": "defining fields in models.py"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar números complejos?",
+            "options": [
+                "complex",
+                "float",
+                "integer",
+                "number"
+            ],
+            "answer": "complex"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será almacenado en la base de datos?",
+            "options": [
+                "store=True",
+                "save=True",
+                "persist=True",
+                "keep=True"
+            ],
+            "answer": "store=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para listar todos los módulos instalados en Odoo?",
+            "options": [
+                "odoo list modules",
+                "odoo module list",
+                "sudo odoo modules",
+                "odoo-bin --list-modules"
+            ],
+            "answer": "odoo-bin --list-modules"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar cadenas de texto cortas en Odoo?",
+            "options": [
+                "fields.Char",
+                "fields.String",
+                "fields.Text",
+                "fields.ShortText"
+            ],
+            "answer": "fields.Char"
+        },
+{
+            "question": "¿Qué directorio contiene las plantillas HTML en un módulo de Odoo?",
+            "options": [
+                "templates/",
+                "views/",
+                "static/",
+                "controllers/"
+            ],
+            "answer": "templates/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones ordenadas e inmutables?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "tuple"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será visible pero no editable?",
+            "options": [
+                "readonly=True",
+                "visible=True",
+                "editable=False",
+                "display_only=True"
+            ],
+            "answer": "readonly=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para actualizar un módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo update <modulo>",
+                "sudo systemctl update odoo <modulo>",
+                "sudo -u odoo odoo-bin -u <modulo>",
+                "odoo module refresh <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -u <modulo>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar números reales en Odoo?",
+            "options": [
+                "fields.Float",
+                "fields.Real",
+                "fields.Decimal",
+                "fields.Number"
+            ],
+            "answer": "fields.Float"
+        },
+{
+            "question": "¿Qué directorio contiene los controladores en un módulo de Odoo?",
+            "options": [
+                "controllers/",
+                "models/",
+                "views/",
+                "static/"
+            ],
+            "answer": "controllers/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar texto encerrado entre comillas?",
+            "options": [
+                "str",
+                "text",
+                "char",
+                "string"
+            ],
+            "answer": "str"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será obligatorio?",
+            "options": [
+                "required=True",
+                "mandatory=True",
+                "compulsory=True",
+                "obligatory=True"
+            ],
+            "answer": "required=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para activar el modo desarrollador en Odoo?",
+            "options": [
+                "odoo dev mode",
+                "activate developer",
+                "Ajustes/ Activar modo desarrollador",
+                "developer on"
+            ],
+            "answer": "Ajustes/ Activar modo desarrollador"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar valores de fecha y hora en Odoo?",
+            "options": [
+                "fields.Datetime",
+                "fields.Time",
+                "fields.Date",
+                "fields.Timestamp"
+            ],
+            "answer": "fields.Datetime"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos CSV de seguridad en un módulo de Odoo?",
+            "options": [
+                "security/",
+                "data/",
+                "models/",
+                "views/"
+            ],
+            "answer": "security/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar valores numéricos grandes?",
+            "options": [
+                "int",
+                "long",
+                "big",
+                "large"
+            ],
+            "answer": "int"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será visible en la interfaz de usuario?",
+            "options": [
+                "visible=True",
+                "show=True",
+                "display=True",
+                "hidden=False"
+            ],
+            "answer": "visible=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para verificar los logs de Odoo tras una actualización?",
+            "options": [
+                "odoo logs check",
+                "sudo cat /var/log/odoo/odoo-server.log",
+                "odoo log review",
+                "odoo-bin --log-level=debug"
+            ],
+            "answer": "sudo cat /var/log/odoo/odoo-server.log"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar selecciones simples en Odoo?",
+            "options": [
+                "fields.Selection",
+                "fields.Choice",
+                "fields.List",
+                "fields.Options"
+            ],
+            "answer": "fields.Selection"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será único?",
+            "options": [
+                "unique=True",
+                "distinct=True",
+                "only_one=True",
+                "single=True"
+            ],
+            "answer": "unique=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para crear un nuevo módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo new module",
+                "odoo scaffold <nombre> addons/",
+                "create_module <nombre>",
+                "module_create <nombre>"
+            ],
+            "answer": "odoo scaffold <nombre> addons/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar valores booleanos?",
+            "options": [
+                "bool",
+                "boolean",
+                "true_false",
+                "logical"
+            ],
+            "answer": "bool"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será calculado automáticamente?",
+            "options": [
+                "auto=True",
+                "compute='_method'",
+                "dynamic=True",
+                "automatic=True"
+            ],
+            "answer": "compute='_method'"
+        },
+{
+            "question": "¿Qué comando se utiliza para reiniciar el servidor de Odoo?",
+            "options": [
+                "sudo systemctl restart odoo",
+                "odoo restart",
+                "restart odoo",
+                "service odoo restart"
+            ],
+            "answer": "sudo systemctl restart odoo"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar archivos multimedia en Odoo?",
+            "options": [
+                "fields.Binary",
+                "fields.Media",
+                "fields.File",
+                "fields.Image"
+            ],
+            "answer": "fields.Binary"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos de demostración en un módulo de Odoo?",
+            "options": [
+                "demo/",
+                "data/",
+                "test/",
+                "example/"
+            ],
+            "answer": "demo/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones mutables de elementos?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "list"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será mostrado en la barra de búsqueda?",
+            "options": [
+                "searchable=True",
+                "filter=True",
+                "findable=True",
+                "index=True"
+            ],
+            "answer": "index=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para parar el servicio de Odoo desde la línea de comandos?",
+            "options": [
+                "sudo systemctl stop odoo",
+                "odoo stop",
+                "halt odoo",
+                "shutdown odoo"
+            ],
+            "answer": "sudo systemctl stop odoo"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar textos largos en Odoo?",
+            "options": [
+                "fields.Text",
+                "fields.LongText",
+                "fields.String",
+                "fields.Char"
+            ],
+            "answer": "fields.Text"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos de herencia de vistas en un módulo de Odoo?",
+            "options": [
+                "inherit/",
+                "views/",
+                "models/",
+                "static/"
+            ],
+            "answer": "views/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar números enteros?",
+            "options": [
+                "int",
+                "float",
+                "number",
+                "integer"
+            ],
+            "answer": "int"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será eliminado en cascada?",
+            "options": [
+                "ondelete='cascade'",
+                "delete=True",
+                "cascade_delete=True",
+                "remove_on_delete=True"
+            ],
+            "answer": "ondelete='cascade'"
+        },
+{
+            "question": "¿Qué comando se utiliza para instalar un módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo install <modulo>",
+                "sudo -u odoo odoo-bin -i <modulo>",
+                "install_module <modulo>",
+                "odoo module install <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -i <modulo>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar relaciones muchos-a-muchos en Odoo?",
+            "options": [
+                "fields.One2many",
+                "fields.Many2one",
+                "fields.Many2many",
+                "fields.Relation"
+            ],
+            "answer": "fields.Many2many"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos de configuración inicial en un módulo de Odoo?",
+            "options": [
+                "init/",
+                "config/",
+                "settings/",
+                "data/"
+            ],
+            "answer": "data/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar valores lógicos?",
+            "options": [
+                "bool",
+                "logical",
+                "true_false",
+                "binary"
+            ],
+            "answer": "bool"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será accesible solo para lectura?",
+            "options": [
+                "readonly=True",
+                "read_only=True",
+                "write=False",
+                "editable=False"
+            ],
+            "answer": "readonly=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para iniciar Odoo en modo depuración?",
+            "options": [
+                "odoo debug",
+                "odoo-bin --debug",
+                "debug_mode odoo",
+                "sudo systemctl debug odoo"
+            ],
+            "answer": "odoo-bin --debug"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar relaciones uno-a-muchos en Odoo?",
+            "options": [
+                "fields.One2many",
+                "fields.Many2one",
+                "fields.Relation",
+                "fields.Link"
+            ],
+            "answer": "fields.One2many"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos de herencia de modelos en un módulo de Odoo?",
+            "options": [
+                "inherit/",
+                "models/",
+                "views/",
+                "static/"
+            ],
+            "answer": "models/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones indexadas?",
+            "options": [
+                "list",
+                "tuple",
+                "array",
+                "vector"
+            ],
+            "answer": "list"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será oculto en la interfaz de usuario?",
+            "options": [
+                "hidden=True",
+                "invisible=True",
+                "visible=False",
+                "display=None"
+            ],
+            "answer": "invisible=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para activar el modo superusuario en Odoo?",
+            "options": [
+                "sudo odoo admin",
+                "superuser on",
+                "Convertirse en superusuario",
+                "odoo-bin --superuser"
+            ],
+            "answer": "Convertirse en superusuario"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar valores seleccionados en una lista en Odoo?",
+            "options": [
+                "fields.Selection",
+                "fields.List",
+                "fields.Options",
+                "fields.Choice"
+            ],
+            "answer": "fields.Selection"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será mostrado en la vista de lista?",
+            "options": [
+                "list_view=True",
+                "tree_view=True",
+                "display_in_list=True",
+                "visible_in_tree=True"
+            ],
+            "answer": "tree_view=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para generar un informe personalizado en Odoo?",
+            "options": [
+                "odoo report generate",
+                "odoo create report",
+                "Definir un archivo XML en reports/",
+                "odoo custom report"
+            ],
+            "answer": "Definir un archivo XML en reports/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar valores flotantes?",
+            "options": [
+                "float",
+                "decimal",
+                "real",
+                "number"
+            ],
+            "answer": "float"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será mostrado en la vista de formulario?",
+            "options": [
+                "form_view=True",
+                "display_in_form=True",
+                "visible_in_form=True",
+                "show_in_form=True"
+            ],
+            "answer": "visible_in_form=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para actualizar los datos precargados en un módulo de Odoo?",
+            "options": [
+                "odoo reload data",
+                "update data <modulo>",
+                "sudo -u odoo odoo-bin -u <modulo>",
+                "refresh data <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -u <modulo>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar relaciones muchos-a-uno en Odoo?",
+            "options": [
+                "fields.One2many",
+                "fields.Many2one",
+                "fields.Relation",
+                "fields.Link"
+            ],
+            "answer": "fields.Many2one"
+        },
+{
+            "question": "¿Qué directorio contiene los archivos de internacionalización en un módulo de Odoo?",
+            "options": [
+                "i18n/",
+                "lang/",
+                "translate/",
+                "locale/"
+            ],
+            "answer": "i18n/"
+        },
+{
+            "question": "¿Qué tipo de dato en Python se utiliza para almacenar colecciones desordenadas de elementos?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "answer": "set"
+        },
+{
+            "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será mostrado en la barra de herramientas?",
+            "options": [
+                "toolbar=True",
+                "tools=True",
+                "action=True",
+                "menu=True"
+            ],
+            "answer": "toolbar=True"
+        },
+{
+            "question": "¿Qué comando se utiliza para desactivar un módulo en Odoo desde la línea de comandos?",
+            "options": [
+                "odoo disable <modulo>",
+                "sudo -u odoo odoo-bin -d <modulo>",
+                "odoo module deactivate <modulo>",
+                "sudo -u odoo odoo-bin -u <modulo>"
+            ],
+            "answer": "sudo -u odoo odoo-bin -u <modulo>"
+        },
+{
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar valores booleanos en Odoo?",
+            "options": [
+                "fields.Bool",
+                "fields.Boolean",
+                "fields.Logical",
+                "fields.Binary"
+            ],
+            "answer": "fields.Boolean"
+        },
+        {
+            "question": "¿Qué directorio contiene los archivos de herencia de vistas en un módulo de Odoo?",
+            "options": [
+                "inherit/",
+                "views/",
+                "models/",
+                "static/"
+            ],
+            "answer": "views/"
+        },
+        {
+            "question": "¿Cuál es la principal característica del lenguaje Python que lo distingue de otros lenguajes como Java o C++?",
+            "options": [
+                "Es un lenguaje compilado",
+                "Es un lenguaje tipado dinámicamente",
+                "Requiere declaración explícita de variables",
+                "Tiene una sintaxis más compleja"
+            ],
+            "answer": "Es un lenguaje tipado dinámicamente"
+        },
+        {
+            "question": "¿Qué comando se utiliza para crear automáticamente la estructura básica de un módulo en Odoo?",
+            "options": [
+                "odoo create module <nombre>",
+                "odoo scaffold <nombre> addons/",
+                "odoo generate <nombre>",
+                "odoo new-module <nombre>"
+            ],
+            "answer": "odoo scaffold <nombre> addons/"
+        },
+        {
+            "question": "¿En qué archivo se definen las dependencias de un módulo en Odoo?",
+            "options": [
+                "__init__.py",
+                "__manifest__.py",
+                "models.py",
+                "views.xml"
+            ],
+            "answer": "__manifest__.py"
+        },
+        {
+            "question": "¿Qué tipo de vista en Odoo permite mostrar datos en forma de tarjetas organizadas en columnas?",
+            "options": [
+                "tree",
+                "kanban",
+                "form",
+                "calendar"
+            ],
+            "answer": "kanban"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un campo Many2one para especificar el modelo relacionado?",
+            "options": [
+                "model",
+                "comodel_name",
+                "relation_model",
+                "foreign_key"
+            ],
+            "answer": "comodel_name"
+        },
+        {
+            "question": "¿Cuál es el propósito del decorador '@api.depends' en un campo calculado en Odoo?",
+            "options": [
+                "Indica que el campo debe ser almacenado en la base de datos",
+                "Define los campos sobre los cuales depende el cálculo",
+                "Establece el tipo de dato del campo calculado",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Define los campos sobre los cuales depende el cálculo"
+        },
+        {
+            "question": "¿Qué significa que Python sea 'fuertemente tipado' según el PDF?",
+            "options": [
+                "El tipo de una variable puede cambiar durante la ejecución",
+                "Una variable de un tipo no puede usarse como si fuera de otro tipo sin una conversión explícita",
+                "Las variables no necesitan ser declaradas antes de usarlas",
+                "Python solo admite tipos básicos de datos"
+            ],
+            "answer": "Una variable de un tipo no puede usarse como si fuera de otro tipo sin una conversión explícita"
+        },
+        {
+            "question": "¿Qué ocurre si no se incluye el atributo 'store=True' en un campo calculado en Odoo?",
+            "options": [
+                "El campo no será visible en las vistas",
+                "El campo no se almacenará en la base de datos",
+                "El campo no podrá ser utilizado en filtros",
+                "Todas las opciones son correctas"
+            ],
+            "answer": "El campo no se almacenará en la base de datos"
+        },
+        {
+            "question": "¿En qué directorio se deben almacenar los archivos XML que definen las vistas en un módulo de Odoo?",
+            "options": [
+                "models/",
+                "views/",
+                "security/",
+                "static/"
+            ],
+            "answer": "views/"
+        },
+        {
+            "question": "¿Qué tipo de relación se utiliza en Odoo cuando un registro puede estar relacionado con varios registros en otro modelo?",
+            "options": [
+                "one2many",
+                "many2one",
+                "many2many",
+                "relation"
+            ],
+            "answer": "many2one"
+        },
+        {
+            "question": "¿Qué comando se utiliza para reiniciar el servicio de Odoo desde la línea de comandos?",
+            "options": [
+                "sudo service odoo restart",
+                "sudo systemctl restart odoo",
+                "restart odoo",
+                "odoo restart"
+            ],
+            "answer": "sudo systemctl restart odoo"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un menú para restringir su visibilidad a un grupo específico en Odoo?",
+            "options": [
+                "group_id",
+                "groups",
+                "access_group",
+                "visible_for"
+            ],
+            "answer": "groups"
+        },
+        {
+            "question": "¿Cuál es el propósito del archivo 'ir.model.access.csv' en un módulo de Odoo?",
+            "options": [
+                "Definir las relaciones entre modelos",
+                "Configurar los permisos de acceso para grupos de usuarios",
+                "Almacenar datos precargados",
+                "Documentar las funcionalidades del módulo"
+            ],
+            "answer": "Configurar los permisos de acceso para grupos de usuarios"
+        },
+        {
+            "question": "¿Qué tipo de campo en Odoo se utiliza para almacenar valores booleanos?",
+            "options": [
+                "fields.Bool",
+                "fields.Boolean",
+                "fields.Binary",
+                "fields.Logical"
+            ],
+            "answer": "fields.Boolean"
+        },
+        {
+            "question": "¿Qué implica el uso del atributo 'ondelete' en una relación many2one en Odoo?",
+            "options": [
+                "Define el comportamiento al eliminar un registro relacionado",
+                "Especifica el modelo relacionado",
+                "Establece el nombre del campo en la interfaz de usuario",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Define el comportamiento al eliminar un registro relacionado"
+        },
+        {
+            "question": "¿Qué sentencia se utiliza en Python para definir una función?",
+            "options": [
+                "function",
+                "def",
+                "define",
+                "func"
+            ],
+            "answer": "def"
+        },
+        {
+            "question": "¿Dónde se define la estructura de un informe personalizado en Odoo?",
+            "options": [
+                "En un archivo CSV",
+                "En un archivo XML utilizando QWeb",
+                "Directamente en la base de datos",
+                "En un archivo JSON"
+            ],
+            "answer": "En un archivo XML utilizando QWeb"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un campo One2many para especificar el campo relacionado en el modelo secundario?",
+            "options": [
+                "inverse_field",
+                "related_field",
+                "comodel_name",
+                "relation_field"
+            ],
+            "answer": "relation_field"
+        },
+        {
+            "question": "¿Qué método se utiliza en Python para calcular el valor de un campo dependiente en Odoo?",
+            "options": [
+                "compute_value",
+                "calculate_field",
+                "update_value",
+                "def compute_<campo>(self)"
+            ],
+            "answer": "def compute_<campo>(self)"
+        },
+        {
+            "question": "¿Qué implica que un campo en Odoo sea 'required=True'?",
+            "options": [
+                "El campo será opcional en todas las vistas",
+                "El campo deberá ser completado obligatoriamente",
+                "El campo solo será visible en modo lectura",
+                "El campo se almacenará automáticamente en la base de datos"
+            ],
+            "answer": "El campo deberá ser completado obligatoriamente"
+        },
+        {
+            "question": "¿Qué comando se utiliza para actualizar la lista de aplicaciones disponibles en Odoo?",
+            "options": [
+                "Odoo update modules",
+                "Odoo refresh apps",
+                "Odoo reload applications",
+                "Odoo upgrade list"
+            ],
+            "answer": "Odoo refresh apps"
+        },
+        {
+            "question": "¿Cuál es el propósito de la etiqueta '<filter>' en una vista de búsqueda en Odoo?",
+            "options": [
+                "Permite añadir campos adicionales a la búsqueda",
+                "Define criterios preestablecidos para filtrar registros",
+                "Crea nuevas acciones de ventana",
+                "Establece permisos de acceso"
+            ],
+            "answer": "Define criterios preestablecidos para filtrar registros"
+        },
+        {
+            "question": "¿Qué directorio contiene los archivos de seguridad(grupos y permisos) en un módulo de Odoo?",
+            "options": [
+                "models/",
+                "views/",
+                "security/",
+                "controllers/"
+            ],
+            "answer": "security/"
+        },
+        {
+            "question": "¿Qué operador se utiliza en Python para realizar una división entera?",
+            "options": [
+                "/",
+                "//",
+                "%",
+                "**"
+            ],
+            "answer": "//"
+        },
+        {
+            "question": "¿Qué tipo de vista en Odoo permite visualizar datos en forma de gráfico?",
+            "options": [
+                "tree",
+                "graph",
+                "form",
+                "kanban"
+            ],
+            "answer": "graph"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un campo para hacerlo invisible en una vista en Odoo?",
+            "options": [
+                "hidden='true'",
+                "invisible='1'",
+                "display='none'",
+                "visible='false'"
+            ],
+            "answer": "invisible='1'"
+        },
+        {
+            "question": "¿Qué significa que una vista sea heredada en Odoo?",
+            "options": [
+                "Es una copia exacta de otra vista",
+                "Se crea a partir de otra vista sin modificar la original",
+                "Solo puede ser utilizada por usuarios administradores",
+                "Es una vista estática que no puede ser modificada"
+            ],
+            "answer": "Se crea a partir de otra vista sin modificar la original"
+        },
+        {
+            "question": "¿Qué elemento XML se utiliza para definir una acción de ventana en Odoo?",
+            "options": [
+                "<action>",
+                "<window_action>",
+                "<act_window>",
+                "<view_action>"
+            ],
+            "answer": "<act_window>"
+        },
+        {
+            "question": "¿Qué comando se utiliza para activar el modo desarrollador en Odoo?",
+            "options": [
+                "odoo dev mode on",
+                "Ajustes/ Activar modo desarrollador",
+                "odoo enable developer",
+                "odoo debug mode"
+            ],
+            "answer": "Ajustes/ Activar modo desarrollador"
+        },
+        {
+            "question": "¿Qué tipo de campo en Python se utiliza para almacenar números con decimales en Odoo?",
+            "options": [
+                "fields.Integer",
+                "fields.Float",
+                "fields.Number",
+                "fields.Decimal"
+            ],
+            "answer": "fields.Float"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un campo para establecer un valor predeterminado en Odoo?",
+            "options": [
+                "default",
+                "preset",
+                "initial",
+                "value"
+            ],
+            "answer": "default"
+        },
+        {
+            "question": "¿Qué significa que una clase en Python extienda de 'models.Model' en Odoo?",
+            "options": [
+                "La clase es una entidad que representa una tabla en la base de datos",
+                "La clase es una interfaz gráfica",
+                "La clase es un controlador de eventos",
+                "La clase es un archivo estático"
+            ],
+            "answer": "La clase es una entidad que representa una tabla en la base de datos"
+        },
+        {
+            "question": "¿Qué directorio se utiliza para almacenar los informes personalizados en un módulo de Odoo?",
+            "options": [
+                "templates/",
+                "reports/",
+                "static/",
+                "data/"
+            ],
+            "answer": "reports/"
+        },
+        {
+            "question": "¿Qué atributo se utiliza en un campo Many2many para especificar el modelo relacionado?",
+            "options": [
+                "model",
+                "comodel_name",
+                "relation_model",
+                "foreign_key"
+            ],
+            "answer": "comodel_name"
+        },
+        {
+            "question": "¿Qué implica el uso del atributo 'position' en una expresión XPath al editar una vista heredada en Odoo?",
+            "options": [
+                "Define el tipo de vista a modificar",
+                "Especifica la posición donde se insertará o modificará el código XML",
+                "Establece el orden de carga de las vistas",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Especifica la posición donde se insertará o modificará el código XML"
+        },
+        {
+            "question": "¿Qué tipo de vista en Odoo permite organizar datos en forma de calendario?",
+            "options": [
+                "tree",
+                "calendar",
+                "form",
+                "gantt"
+            ],
+            "answer": "calendar"
+        },
+        {
+            "question": "¿Qué archivo se utiliza para precargar datos en un módulo de Odoo?",
+            "options": [
+                "data.xml",
+                "preload_data.py",
+                "init_data.csv",
+                "load_data.json"
+            ],
+            "answer": "data.xml"
+        },
+        {
+            "question": "¿Qué ocurre si no se define correctamente el atributo 'store=True' en un campo calculado en Odoo?",
+            "options": [
+                "El campo seguirá siendo visible pero no almacenará datos en la base de datos",
+                "El sistema generará un error al intentar calcular el campo",
+                "El campo será automáticamente eliminado durante la próxima actualización",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "El campo seguirá siendo visible pero no almacenará datos en la base de datos"
+        },
+        {
+            "question": "¿Cuál es el propósito del decorador '@api.depends' en un método de cálculo en Python dentro de Odoo?",
+            "options": [
+                "Indica qué campos deben ser actualizados automáticamente cuando cambia el valor de otros campos",
+                "Define el tipo de dato que devolverá el método",
+                "Establece los permisos necesarios para ejecutar el método",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Indica qué campos deben ser actualizados automáticamente cuando cambia el valor de otros campos"
+        },
+        {
+            "question": "¿Qué consecuencia tiene no incluir un archivo 'ir.model.access.csv' en un módulo personalizado en Odoo?",
+            "options": [
+                "Los usuarios no podrán acceder a ninguna funcionalidad del módulo",
+                "El sistema asignará automáticamente permisos básicos a todos los usuarios",
+                "El módulo solo será visible para superusuarios",
+                "Todas las opciones son correctas"
+            ],
+            "answer": "El módulo solo será visible para superusuarios"
+        },
+        {
+            "question": "¿Qué implica el uso del atributo 'ondelete' en una relación Many2one en Odoo?",
+            "options": [
+                "Define el comportamiento al eliminar un registro relacionado",
+                "Especifica el modelo con el que se establece la relación",
+                "Establece si la relación es obligatoria o opcional",
+                "Ninguna de las anteriores respuestas es correcta"
+            ],
+            "answer": "Define el comportamiento al eliminar un registro relacionado"
+        }
+    ]
+}
