@@ -2619,6 +2619,289 @@
         "show_in_tree=True"
     ],
     "answer": "tree_view=True"
+},
+        {
+    "question": "¿Qué lenguaje de programación se utiliza en Odoo para desarrollar módulos personalizados?",
+    "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+    ],
+    "answer": "Python"
+},
+{
+    "question": "¿Cuál es la característica principal del lenguaje Python según el documento?",
+    "options": [
+        "Es un lenguaje compilado",
+        "Tiene una sintaxis muy sencilla",
+        "Requiere declaración explícita de variables",
+        "No permite programación orientada a objetos"
+    ],
+    "answer": "Tiene una sintaxis muy sencilla"
+},
+{
+    "question": "¿Dónde deben almacenarse los archivos XML que definen las vistas en un módulo de Odoo?",
+    "options": [
+        "En el directorio 'models/'",
+        "En el directorio 'views/'",
+        "En el directorio 'security/'",
+        "En el directorio 'static/'"
+    ],
+    "answer": "En el directorio 'views/'"
+},
+{
+    "question": "¿Qué comando se utiliza para reiniciar el servicio de Odoo desde la línea de comandos?",
+    "options": [
+        "sudo service odoo restart",
+        "sudo systemctl restart odoo",
+        "restart odoo",
+        "odoo restart"
+    ],
+    "answer": "sudo systemctl restart odoo"
+},
+{
+    "question": "¿Cuál es el propósito principal del patrón Modelo-Vista-Controlador(MVC) en Odoo?",
+    "options": [
+        "Separar los datos del modelo de la interfaz de usuario",
+        "Unificar todos los componentes del sistema en un solo archivo",
+        "Facilitar la creación de informes automáticos",
+        "Simplificar la gestión de permisos de acceso"
+    ],
+    "answer": "Separar los datos del modelo de la interfaz de usuario"
+},
+        {
+    "question": "¿Qué atributo se utiliza en un campo Many2one para especificar el modelo relacionado?",
+    "options": [
+        "model",
+        "comodel_name",
+        "relation_model",
+        "foreign_key"
+    ],
+    "answer": "comodel_name"
+},
+{
+    "question": "¿Qué implica que Python sea 'tipado dinámico' según el documento?",
+    "options": [
+        "Las variables deben declararse antes de ser utilizadas",
+        "El tipo de una variable se determina en tiempo de ejecución",
+        "El lenguaje no permite trabajar con diferentes tipos de datos",
+        "Python requiere tipado estático para funciones"
+    ],
+    "answer": "El tipo de una variable se determina en tiempo de ejecución"
+},
+{
+    "question": "¿Cuál es el propósito de los campos calculados en Odoo?",
+    "options": [
+        "Almacenar datos ingresados por el usuario",
+        "Mostrar valores calculados automáticamente",
+        "Crear relaciones entre modelos",
+        "Definir acciones de ventana"
+    ],
+    "answer": "Mostrar valores calculados automáticamente"
+},
+{
+    "question": "¿Qué ocurre si no se define correctamente el ID externo(ID externo) en una vista QWeb personalizada?",
+    "options": [
+        "La vista funcionará sin problemas",
+        "Se generará un error durante la carga de la vista",
+        "El sistema asignará automáticamente un nuevo ID externo",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Se generará un error durante la carga de la vista"
+},
+{
+    "question": "¿Qué método se utiliza en Python para definir funciones en Odoo?",
+    "options": [
+        "function",
+        "def",
+        "define",
+        "method"
+    ],
+    "answer": "def"
+},
+        {
+    "question": "¿Cuál es el propósito del decorador '@api.depends' en un método de cálculo en Odoo?",
+    "options": [
+        "Indica que el método depende de otros campos para su cálculo",
+        "Define el nombre del modelo asociado al método",
+        "Establece los permisos necesarios para ejecutar el método",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Indica que el método depende de otros campos para su cálculo"
+},
+{
+    "question": "¿Qué consecuencia tiene no ajustar los permisos de acceso en un grupo personalizado en Odoo?",
+    "options": [
+        "Los usuarios podrán acceder a cualquier menú sin restricciones",
+        "El sistema generará errores durante la carga de vistas",
+        "Los datos precargados no serán visibles para los usuarios",
+        "Todos los anteriores son correctos"
+    ],
+    "answer": "Los usuarios podrán acceder a cualquier menú sin restricciones"
+},
+{
+    "question": "¿Qué significa que una vista sea 'heredada' en Odoo?",
+    "options": [
+        "Es una copia exacta de otra vista existente",
+        "Permite modificar una vista existente sin alterarla directamente",
+        "Solo puede ser utilizada por usuarios administradores",
+        "Es una vista estática que no puede ser modificada"
+    ],
+    "answer": "Permite modificar una vista existente sin alterarla directamente"
+},
+{
+    "question": "¿Qué riesgo técnico existe al modificar un grupo predeterminado en lugar de crear uno nuevo en Odoo?",
+    "options": [
+        "Las actualizaciones futuras pueden eliminar los cambios realizados",
+        "Otros grupos heredados de éste dejarán de funcionar",
+        "El sistema generará conflictos en las vistas asociadas",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Las actualizaciones futuras pueden eliminar los cambios realizados"
+},
+{
+    "question": "¿Qué implica el uso del atributo 'position' en una expresión XPath al editar una vista heredada en Odoo?",
+    "options": [
+        "Define el tipo de operación que se realizará sobre el elemento seleccionado",
+        "Especifica la posición donde se insertará o modificará el código XML",
+        "Establece el orden de carga de las vistas heredadas",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Especifica la posición donde se insertará o modificará el código XML"
+},
+        {
+    "question": "¿Qué problema técnico surge al no configurar adecuadamente el identificador externo(ID externo) en un informe personalizado en Odoo?",
+    "options": [
+        "El informe no podrá ser generado correctamente",
+        "El sistema asignará automáticamente un nuevo ID externo",
+        "La vista asociada al informe quedará desvinculada",
+        "Todos los anteriores son correctos"
+    ],
+    "answer": "El informe no podrá ser generado correctamente"
+},
+{
+    "question": "¿Cómo se define una relación one2many en un modelo de Odoo?",
+    "options": [
+        "A través de un campo de tipo 'fields.One2many' en el modelo secundario",
+        "Mediante un campo de tipo 'fields.Many2one' en el modelo primario",
+        "Utilizando un campo de tipo 'fields.Relation' en ambos modelos",
+        "Creando una tabla intermedia manualmente en PostgreSQL"
+    ],
+    "answer": "Mediante un campo de tipo 'fields.Many2one' en el modelo secundario"
+},
+{
+    "question": "¿Qué diferencia hay entre una relación many2one y one2many en Odoo?",
+    "options": [
+        "many2one permite múltiples relaciones hacia un único registro, mientras que one2many lo hace hacia varios registros",
+        "one2many se utiliza para relaciones uno-a-muchos, mientras que many2one para muchos-a-uno",
+        "many2one crea automáticamente una tabla intermedia, mientras que one2many no",
+        "Ambas A y B son correctas"
+    ],
+    "answer": "Ambas A y B son correctas"
+},
+{
+    "question": "¿Qué impacto tiene establecer incorrectamente el atributo 'store=True' en un campo calculado en Odoo?",
+    "options": [
+        "El campo será visible pero no almacenado en la base de datos",
+        "El sistema generará errores durante las actualizaciones",
+        "El campo no podrá ser utilizado en filtros ni búsquedas",
+        "Todos los anteriores son correctos"
+    ],
+    "answer": "Todos los anteriores son correctos"
+},
+{
+    "question": "¿Qué implica el uso del atributo 'ondelete' en una relación many2one en Odoo?",
+    "options": [
+        "Define el comportamiento al eliminar un registro relacionado",
+        "Especifica el modelo con el que se va a relacionar",
+        "Establece si el campo es obligatorio o opcional",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Define el comportamiento al eliminar un registro relacionado"
+},
+        {
+    "question": "¿Qué comando se utiliza para crear automáticamente la estructura básica de un módulo en Odoo?",
+    "options": [
+        "odoo create module <nombre>",
+        "odoo scaffold <nombre> addons/",
+        "odoo generate <nombre>",
+        "new module <nombre>"
+    ],
+    "answer": "odoo scaffold <nombre> addons/"
+},
+{
+    "question": "¿Qué tipo de dato en Python se utiliza para almacenar números con decimales en Odoo?",
+    "options": [
+        "fields.Integer",
+        "fields.Float",
+        "fields.Char",
+        "fields.Boolean"
+    ],
+    "answer": "fields.Float"
+},
+        {
+    "question": "¿Qué atributo se utiliza en un campo para hacerlo obligatorio en Odoo?",
+    "options": [
+        "required=True",
+        "mandatory=True",
+        "obligatory=True",
+        "must=True"
+    ],
+    "answer": "required=True"
+},
+{
+    "question": "¿Dónde deben almacenarse los informes personalizados en un módulo de Odoo?",
+    "options": [
+        "En el directorio 'templates/'",
+        "En el directorio 'reports/'",
+        "En el directorio 'views/'",
+        "En el directorio 'static/'"
+    ],
+    "answer": "En el directorio 'reports/'"
+},
+        {
+    "question": "¿Qué implica el uso de XPath al editar una vista heredada en Odoo?",
+    "options": [
+        "Buscar y seleccionar partes específicas de una vista original para modificarlas",
+        "Modificar directamente el código fuente del sistema",
+        "Crear nuevas tablas en la base de datos subyacente",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Buscar y seleccionar partes específicas de una vista original para modificarlas"
+},
+{
+    "question": "¿Qué consecuencia tiene no configurar correctamente los permisos de acceso en un grupo personalizado en Odoo?",
+    "options": [
+        "Los usuarios podrán acceder a datos no autorizados",
+        "El sistema generará errores durante la carga de vistas",
+        "Los datos precargados no serán accesibles para los usuarios",
+        "Todos los anteriores son correctos"
+    ],
+    "answer": "Los usuarios podrán acceder a datos no autorizados"
+},
+        {
+    "question": "¿Qué significa que un campo en un modelo de Odoo tenga el atributo 'compute='_mi_metodo''?",
+    "options": [
+        "El campo será calculado automáticamente mediante el método '_mi_metodo'",
+        "El campo almacenará datos ingresados por el usuario",
+        "El campo será visible pero no editable",
+        "El campo creará una relación con otro modelo"
+    ],
+    "answer": "El campo será calculado automáticamente mediante el método '_mi_metodo'"
+},
+{
+    "question": "¿Qué implicaciones tiene no definir correctamente el archivo 'ir.model.access.csv' en un módulo de Odoo?",
+    "options": [
+        "Los usuarios no tendrán acceso a los menús ni datos del módulo",
+        "El sistema generará errores durante la instalación del módulo",
+        "Los permisos de acceso no serán aplicados correctamente",
+        "Todos los anteriores son correctos"
+    ],
+    "answer": "Todos los anteriores son correctos"
 }
+        
+        
+        
     ]
 }
