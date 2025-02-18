@@ -2109,6 +2109,516 @@
         "display_only=True"
     ],
     "answer": "readonly=True"
+},
+        {
+    "question": "¿Cuál es el lenguaje principal utilizado para desarrollar módulos personalizados en Odoo?",
+    "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+    ],
+    "answer": "Python"
+},
+{
+    "question": "¿Qué característica define a Python como un lenguaje 'interpretado' según el documento?",
+    "options": [
+        "El código fuente se compila antes de ejecutarse",
+        "El código fuente se traduce a bytecode y luego se ejecuta por un intérprete",
+        "El lenguaje no permite la programación orientada a objetos",
+        "Python requiere declaración explícita de variables"
+    ],
+    "answer": "El código fuente se traduce a bytecode y luego se ejecuta por un intérprete"
+},
+{
+    "question": "¿Qué significa que Python sea 'tipado dinámico' según el PDF?",
+    "options": [
+        "Las variables deben declararse antes de ser utilizadas",
+        "El tipo de una variable se determina en tiempo de ejecución",
+        "El lenguaje solo admite tipos de datos primitivos",
+        "Python no soporta colecciones de datos"
+    ],
+    "answer": "El tipo de una variable se determina en tiempo de ejecución"
+},
+{
+    "question": "¿Cuál es el propósito del patrón Modelo-Vista-Controlador(MVC) en Odoo?",
+    "options": [
+        "Separar los datos del modelo de la interfaz de usuario para mayor independencia",
+        "Unificar los datos y la presentación en un solo archivo",
+        "Facilitar la creación de informes automáticos",
+        "Simplificar la gestión de permisos de acceso"
+    ],
+    "answer": "Separar los datos del modelo de la interfaz de usuario para mayor independencia"
+},
+{
+    "question": "¿Dónde debe almacenarse el archivo '__manifest__.py' en la estructura de un módulo de Odoo?",
+    "options": [
+        "En la raíz del directorio del módulo",
+        "En el directorio 'models/'",
+        "En el directorio 'views/'",
+        "En el directorio 'static/'"
+    ],
+    "answer": "En la raíz del directorio del módulo"
+},
+{
+    "question": "¿Qué comando se utiliza para crear automáticamente la estructura básica de un módulo en Odoo?",
+    "options": [
+        "odoo create module <nombre>",
+        "odoo scaffold <nombre> addons/",
+        "odoo generate <nombre>",
+        "new module <nombre>"
+    ],
+    "answer": "odoo scaffold <nombre> addons/"
+},
+{
+    "question": "¿Cuál es el propósito del archivo '__init__.py' en un módulo de Odoo?",
+    "options": [
+        "Define las dependencias del módulo",
+        "Importa los archivos necesarios para inicializar el módulo",
+        "Almacena los datos precargados del módulo",
+        "Guarda la documentación técnica del módulo"
+    ],
+    "answer": "Importa los archivos necesarios para inicializar el módulo"
+},
+{
+    "question": "¿Qué tipo de dato en Python se utiliza para almacenar números con decimales en Odoo?",
+    "options": [
+        "fields.Integer",
+        "fields.Float",
+        "fields.Char",
+        "fields.Boolean"
+    ],
+    "answer": "fields.Float"
+},
+{
+    "question": "¿Cuál es el propósito del decorador '@api.depends' en un método de cálculo en Odoo?",
+    "options": [
+        "Indica que el método depende de otros campos para su cálculo",
+        "Define el nombre del modelo asociado al método",
+        "Establece los permisos necesarios para ejecutar el método",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "Indica que el método depende de otros campos para su cálculo"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo calculado para indicar que su valor será almacenado en la base de datos?",
+    "options": [
+        "store=True",
+        "compute=True",
+        "save=True",
+        "persist=True"
+    ],
+    "answer": "store=True"
+},
+{
+    "question": "¿Cuál es el propósito de las relaciones 'many2one' en Odoo?",
+    "options": [
+        "Establecer una relación uno-a-muchos entre modelos",
+        "Establecer una relación muchos-a-uno entre modelos",
+        "Crear una relación muchos-a-muchos entre modelos",
+        "Definir un campo de texto largo"
+    ],
+    "answer": "Establecer una relación muchos-a-uno entre modelos"
+},
+{
+    "question": "¿Qué comando se utiliza para reiniciar el servicio de Odoo desde la línea de comandos?",
+    "options": [
+        "sudo service odoo restart",
+        "sudo systemctl restart odoo",
+        "restart odoo",
+        "odoo restart"
+    ],
+    "answer": "sudo systemctl restart odoo"
+},
+{
+    "question": "¿Dónde deben almacenarse los archivos XML que definen las vistas en un módulo de Odoo?",
+    "options": [
+        "En el directorio 'models/'",
+        "En el directorio 'views/'",
+        "En el directorio 'security/'",
+        "En el directorio 'static/'"
+    ],
+    "answer": "En el directorio 'views/'"
+},
+{
+    "question": "¿Qué tipo de vista en Odoo permite mostrar datos en forma de tarjetas organizadas en columnas?",
+    "options": [
+        "tree",
+        "kanban",
+        "form",
+        "calendar"
+    ],
+    "answer": "kanban"
+},
+{
+    "question": "¿Qué significa que un menú en Odoo no esté asociado a ningún grupo?",
+    "options": [
+        "Solo será visible para usuarios administradores",
+        "Será visible para todos los usuarios sin restricciones",
+        "No será visible para ningún usuario",
+        "Se requerirá autenticación adicional para acceder al menú"
+    ],
+    "answer": "Será visible para todos los usuarios sin restricciones"
+},
+{
+    "question": "¿Qué operador se utiliza en Python para realizar una división entera?",
+    "options": [
+        "/",
+        "//",
+        "%",
+        "**"
+    ],
+    "answer": "//"
+},
+{
+    "question": "¿Cuál es el propósito de los 'permisos de acceso' en Odoo?",
+    "options": [
+        "Controlar qué usuarios pueden acceder a ciertos menús y datos",
+        "Definir las funcionalidades disponibles en un módulo",
+        "Especificar las relaciones entre modelos",
+        "Configurar la estructura de la base de datos"
+    ],
+    "answer": "Controlar qué usuarios pueden acceder a ciertos menús y datos"
+},
+{
+    "question": "¿Qué tipo de campo en Python se utiliza para almacenar texto corto en Odoo?",
+    "options": [
+        "fields.Text",
+        "fields.Char",
+        "fields.String",
+        "fields.LongText"
+    ],
+    "answer": "fields.Char"
+},
+{
+    "question": "¿Qué comando se utiliza para activar el modo desarrollador en Odoo?",
+    "options": [
+        "Ajustes/ Activar modo desarrollador",
+        "odoo debug mode on",
+        "sudo systemctl debug odoo",
+        "developer mode activate"
+    ],
+    "answer": "Ajustes/ Activar modo desarrollador"
+},
+{
+    "question": "¿Cuál es el propósito de los archivos CSV en el directorio 'security/' de un módulo de Odoo?",
+    "options": [
+        "Definir las relaciones entre modelos",
+        "Configurar los permisos de acceso para grupos de usuarios",
+        "Almacenar datos precargados del módulo",
+        "Documentar las funcionalidades del sistema"
+    ],
+    "answer": "Configurar los permisos de acceso para grupos de usuarios"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo Many2one para especificar el modelo relacionado?",
+    "options": [
+        "model",
+        "comodel_name",
+        "relation_model",
+        "foreign_key"
+    ],
+    "answer": "comodel_name"
+},
+{
+    "question": "¿Qué tipo de vista en Odoo permite mostrar datos en forma de listado o tabla?",
+    "options": [
+        "kanban",
+        "tree",
+        "form",
+        "gantt"
+    ],
+    "answer": "tree"
+},
+{
+    "question": "¿Qué implica que una vista sea 'heredada' en Odoo?",
+    "options": [
+        "Es una copia exacta de otra vista existente",
+        "Permite modificar una vista existente sin alterarla directamente",
+        "Solo puede ser utilizada por usuarios administradores",
+        "Es una vista estática que no puede ser modificada"
+    ],
+    "answer": "Permite modificar una vista existente sin alterarla directamente"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para hacerlo obligatorio en Odoo?",
+    "options": [
+        "required=True",
+        "mandatory=True",
+        "obligatory=True",
+        "must=True"
+    ],
+    "answer": "required=True"
+},
+{
+    "question": "¿Cuál es el propósito de los 'filtros' en las vistas de búsqueda de Odoo?",
+    "options": [
+        "Permitir la edición masiva de registros",
+        "Definir criterios preestablecidos para filtrar registros",
+        "Mostrar informes automáticos",
+        "Configurar permisos de acceso"
+    ],
+    "answer": "Definir criterios preestablecidos para filtrar registros"
+},
+{
+    "question": "¿Qué directorio contiene los modelos en un módulo de Odoo?",
+    "options": [
+        "models/",
+        "views/",
+        "controllers/",
+        "data/"
+    ],
+    "answer": "models/"
+},
+{
+    "question": "¿Qué tipo de campo en Python se utiliza para almacenar valores booleanos en Odoo?",
+    "options": [
+        "fields.Bool",
+        "fields.Boolean",
+        "fields.TrueFalse",
+        "fields.Logic"
+    ],
+    "answer": "fields.Boolean"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será calculado?",
+    "options": [
+        "compute='_method'",
+        "calculated=True",
+        "dynamic=True",
+        "auto=True"
+    ],
+    "answer": "compute='_method'"
+},
+{
+    "question": "¿Qué ocurre si no se incluye el atributo 'store=True' en un campo calculado en Odoo?",
+    "options": [
+        "El campo no será visible en ninguna vista",
+        "El campo no se almacenará en la base de datos",
+        "El campo no podrá ser utilizado en filtros de búsqueda",
+        "Todas las opciones son correctas"
+    ],
+    "answer": "El campo no se almacenará en la base de datos"
+},
+{
+    "question": "¿Qué tipo de relación se utiliza en Odoo cuando un registro puede estar relacionado con varios registros en otro modelo?",
+    "options": [
+        "one2many",
+        "many2one",
+        "many2many",
+        "relation"
+    ],
+    "answer": "many2many"
+},
+{
+    "question": "¿Qué comando se utiliza para actualizar la lista de aplicaciones disponibles en Odoo?",
+    "options": [
+        "Odoo update modules",
+        "Odoo refresh apps",
+        "Odoo reload applications",
+        "Odoo upgrade list"
+    ],
+    "answer": "Odoo refresh apps"
+},
+{
+    "question": "¿Cuál es el propósito de las acciones de ventana('act_window') en Odoo?",
+    "options": [
+        "Asociar una entrada de menú con sus vistas correspondientes",
+        "Definir los permisos de acceso para un grupo de usuarios",
+        "Modificar la estructura de la base de datos",
+        "Crear nuevos campos en un modelo"
+    ],
+    "answer": "Asociar una entrada de menú con sus vistas correspondientes"
+},
+{
+    "question": "¿Qué atributo se utiliza en un menú para restringir su visibilidad a un grupo específico en Odoo?",
+    "options": [
+        "group_id",
+        "groups",
+        "visible_for",
+        "access_group"
+    ],
+    "answer": "groups"
+},
+{
+    "question": "¿Qué significa que una clase en Python extienda de 'models.Model' en Odoo?",
+    "options": [
+        "La clase es una entidad que representa una tabla en la base de datos",
+        "La clase es una interfaz gráfica",
+        "La clase es un controlador de eventos",
+        "La clase es un archivo estático"
+    ],
+    "answer": "La clase es una entidad que representa una tabla en la base de datos"
+},
+{
+    "question": "¿Qué tipo de vista en Odoo permite visualizar datos en forma de gráfico?",
+    "options": [
+        "tree",
+        "graph",
+        "form",
+        "kanban"
+    ],
+    "answer": "graph"
+},
+{
+    "question": "¿Qué ocurre si no se define correctamente el ID externo(ID externo) en una vista QWeb personalizada en Odoo?",
+    "options": [
+        "La vista no podrá ser reconocida por el sistema",
+        "El sistema asignará automáticamente un nuevo ID externo",
+        "La vista funcionará pero no aparecerá en la interfaz de usuario",
+        "Todas las opciones son correctas"
+    ],
+    "answer": "La vista no podrá ser reconocida por el sistema"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para especificar su etiqueta en Odoo?",
+    "options": [
+        "label",
+        "string",
+        "title",
+        "caption"
+    ],
+    "answer": "string"
+},
+{
+    "question": "¿Qué directorio se utiliza para almacenar los informes personalizados en un módulo de Odoo?",
+    "options": [
+        "templates/",
+        "reports/",
+        "views/",
+        "static/"
+    ],
+    "answer": "reports/"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo Many2many para especificar el modelo relacionado?",
+    "options": [
+        "model",
+        "comodel_name",
+        "relation_model",
+        "foreign_key"
+    ],
+    "answer": "comodel_name"
+},
+{
+    "question": "¿Qué tipo de dato en Python se utiliza para almacenar números enteros en Odoo?",
+    "options": [
+        "fields.Integer",
+        "fields.Number",
+        "fields.Int",
+        "fields.Count"
+    ],
+    "answer": "fields.Integer"
+},
+{
+    "question": "¿Qué elemento XML se utiliza para definir una acción de ventana en Odoo?",
+    "options": [
+        "<action>",
+        "<window_action>",
+        "<act_window>",
+        "<view_action>"
+    ],
+    "answer": "<act_window>"
+},
+{
+    "question": "¿Qué ocurre si se elimina un campo heredado de una vista original en Odoo sin usar el atributo 'invisible'?",
+    "options": [
+        "El campo seguirá siendo visible pero no accesible",
+        "La eliminación afectará a otras vistas heredadas",
+        "El sistema generará un error durante la próxima actualización",
+        "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "answer": "La eliminación afectará a otras vistas heredadas"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para hacerlo invisible en una vista en Odoo?",
+    "options": [
+        "hidden='true'",
+        "invisible='1'",
+        "display='none'",
+        "visible='false'"
+    ],
+    "answer": "invisible='1'"
+},
+{
+    "question": "¿Qué tipo de vista en Odoo permite editar o introducir datos en un formulario?",
+    "options": [
+        "tree",
+        "form",
+        "kanban",
+        "calendar"
+    ],
+    "answer": "form"
+},
+{
+    "question": "¿Qué comando se utiliza para instalar un módulo en Odoo desde la línea de comandos?",
+    "options": [
+        "odoo install <modulo>",
+        "sudo -u odoo odoo-bin -i <modulo>",
+        "install_module <modulo>",
+        "odoo module install <modulo>"
+    ],
+    "answer": "sudo -u odoo odoo-bin -i <modulo>"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será único en Odoo?",
+    "options": [
+        "unique=True",
+        "distinct=True",
+        "only_one=True",
+        "single=True"
+    ],
+    "answer": "unique=True"
+},
+{
+    "question": "¿Qué tipo de relación en Odoo se utiliza cuando un registro puede estar relacionado con varios registros en otro modelo?",
+    "options": [
+        "one2many",
+        "many2one",
+        "many2many",
+        "relation"
+    ],
+    "answer": "many2many"
+},
+{
+    "question": "¿Qué directorio se utiliza para almacenar los archivos estáticos en un módulo de Odoo?",
+    "options": [
+        "static/",
+        "assets/",
+        "resources/",
+        "files/"
+    ],
+    "answer": "static/"
+},
+{
+    "question": "¿Qué atributo se utiliza en un menú para especificar que pertenece a un grupo en particular?",
+    "options": [
+        "group_id",
+        "groups",
+        "menu_group",
+        "user_group"
+    ],
+    "answer": "groups"
+},
+{
+    "question": "¿Qué tipo de dato en Python se utiliza para almacenar selecciones múltiples en Odoo?",
+    "options": [
+        "fields.Selection",
+        "fields.Choice",
+        "fields.List",
+        "fields.Options"
+    ],
+    "answer": "fields.Selection"
+},
+{
+    "question": "¿Qué atributo se utiliza en un campo para especificar que su valor será mostrado en una vista de lista en Odoo?",
+    "options": [
+        "list_view=True",
+        "tree_view=True",
+        "display_in_list=True",
+        "show_in_tree=True"
+    ],
+    "answer": "tree_view=True"
 }
     ]
 }
