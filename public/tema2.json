@@ -1,0 +1,4004 @@
+{
+    "quiz": [
+        {
+            "question": "¿Qué es un ERP?",
+            "options": [
+                "Un software de planificación de recursos empresariales",
+                "Un sistema operativo",
+                "Un lenguaje de programación",
+                "Un hardware de almacenamiento"
+            ],
+            "answer": "Un software de planificación de recursos empresariales"
+        },
+        {
+            "question": "¿Cuál es un tipo de instalación de ERP?",
+            "options": [
+                "Automática",
+                "Gráfica",
+                "De escritorio",
+                "Virtual"
+            ],
+            "answer": "Automática"
+        },
+        {
+            "question": "¿Qué componente es clave en la instalación de un ERP?",
+            "options": [
+                "La base de datos",
+                "El procesador",
+                "El sistema operativo",
+                "El monitor"
+            ],
+            "answer": "La base de datos"
+        },
+        {
+            "question": "¿Qué módulo de un ERP se encarga de la contabilidad y finanzas?",
+            "options": [
+                "Gestión contable y financiera",
+                "Facturación",
+                "Compras",
+                "Inventario"
+            ],
+            "answer": "Gestión contable y financiera"
+        },
+        {
+            "question": "¿Qué módulo de un ERP permite gestionar las relaciones con los clientes?",
+            "options": [
+                "CRM",
+                "SCM",
+                "BI",
+                "HRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál de estos elementos es fundamental en la instalación de un ERP?",
+            "options": [
+                "Configuración de la base de datos",
+                "Instalación de gráficos",
+                "Uso de discos externos",
+                "Personalización de teclado"
+            ],
+            "answer": "Configuración de la base de datos"
+        },
+        {
+            "question": "¿Qué significa SaaS en el contexto de los ERP?",
+            "options": [
+                "Software como servicio",
+                "Sistema automatizado de almacenamiento",
+                "Software avanzado de seguridad",
+                "Servicio de aplicaciones sincronizadas"
+            ],
+            "answer": "Software como servicio"
+        },
+        {
+            "question": "¿Qué lenguaje de programación es clave para ejecutar Odoo?",
+            "options": [
+                "Python",
+                "Java",
+                "C++",
+                "PHP"
+            ],
+            "answer": "Python"
+        },
+        {
+            "question": "¿Qué herramienta se usa para administrar PostgreSQL en un ERP?",
+            "options": [
+                "pgAdmin",
+                "MySQL Workbench",
+                "Oracle DB",
+                "SQL Server Manager"
+            ],
+            "answer": "pgAdmin"
+        },
+        {
+            "question": "¿Qué módulo se encarga de la gestión de empleados en un ERP?",
+            "options": [
+                "Gestión de personal",
+                "Gestión de inventario",
+                "Contabilidad",
+                "Facturación"
+            ],
+            "answer": "Gestión de personal"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Mayor costo inicial"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Mayor costo inicial"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Mayor costo inicial"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Mayor costo inicial"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Mayor costo inicial"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dificultad de escalabilidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Automatización completa"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Mayor flexibilidad"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "bash"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "SCM"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Qué sistema de bases de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Eliminar cuentas de usuario"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "psql"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Dependencia total de GUI"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Accesibilidad remota"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Microsoft Dynamics"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Protección ante pérdida de datos"
+        },
+        {
+            "question": "¿Cuál es una característica de la instalación manual de un ERP?",
+            "options": [
+                "Solo funciona en Windows",
+                "Automatización completa",
+                "Mayor flexibilidad",
+                "Dependencia total de GUI"
+            ],
+            "answer": "Solo funciona en Windows"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Mayor consumo de almacenamiento"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Complejidad en la recuperación"
+        },
+        {
+            "question": "¿Cuál es un beneficio de la copia de seguridad en un ERP?",
+            "options": [
+                "Incompatibilidad con la nube",
+                "Mayor consumo de almacenamiento",
+                "Protección ante pérdida de datos",
+                "Complejidad en la recuperación"
+            ],
+            "answer": "Incompatibilidad con la nube"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Oracle"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "Odoo"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Acceder desde cualquier lugar"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Evitar actualizaciones"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué permite hacer la administración remota en un ERP?",
+            "options": [
+                "Reducir almacenamiento",
+                "Evitar actualizaciones",
+                "Acceder desde cualquier lugar",
+                "Eliminar cuentas de usuario"
+            ],
+            "answer": "Reducir almacenamiento"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "mysql"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Cuál es una ventaja de un ERP en la nube?",
+            "options": [
+                "Dependencia de hardware local",
+                "Mayor costo inicial",
+                "Dificultad de escalabilidad",
+                "Accesibilidad remota"
+            ],
+            "answer": "Dependencia de hardware local"
+        },
+        {
+            "question": "¿Qué módulo de ERP gestiona las compras y ventas?",
+            "options": [
+                "Compras, ventas y almacén",
+                "SCM",
+                "CRM",
+                "BI"
+            ],
+            "answer": "Compras, ventas y almacén"
+        },
+        {
+            "question": "¿Qué herramienta se usa para ejecutar comandos en PostgreSQL?",
+            "options": [
+                "cmd",
+                "bash",
+                "psql",
+                "mysql"
+            ],
+            "answer": "cmd"
+        },
+        {
+            "question": "¿Qué empresa es conocida por su ERP Open Source?",
+            "options": [
+                "SAP",
+                "Odoo",
+                "Oracle",
+                "Microsoft Dynamics"
+            ],
+            "answer": "SAP"
+        }
+    ]
+}

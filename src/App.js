@@ -216,6 +216,9 @@ const Quiz = () => {
             >
               <option value="tema4">Unidad 4</option>
               <option value="tema5">Unidad 5</option>
+              <option value="tema1">Unidad 1</option>
+              <option value="tema2">Unidad 2</option>
+              <option value="tema3">Unidad 3</option>
             </select>
             </h1>
           </div>

@@ -1,0 +1,4004 @@
+{
+    "quiz": [
+        {
+            "question": "¿Qué significa ERP en el contexto empresarial?",
+            "options": [
+                "Enterprise Resource Planning",
+                "Electronic Resource Planning",
+                "Enterprise Resource Process",
+                "Enhanced Resource Processing"
+            ],
+            "answer": "Enterprise Resource Planning"
+        },
+        {
+            "question": "¿Cuál de los siguientes es un objetivo principal de un sistema ERP?",
+            "options": [
+                "Optimizar los procesos empresariales",
+                "Eliminar la automatización de procesos",
+                "Reducir la integración de datos",
+                "Aumentar los costos operativos"
+            ],
+            "answer": "Optimizar los procesos empresariales"
+        },
+        {
+            "question": "¿Qué componente de un ERP se encarga de la planificación de materiales?",
+            "options": [
+                "BI",
+                "CRM",
+                "MRP",
+                "SCM"
+            ],
+            "answer": "MRP"
+        },
+        {
+            "question": "¿Cuál de los siguientes NO es un beneficio de un ERP?",
+            "options": [
+                "Automatización de procesos",
+                "Mejor toma de decisiones",
+                "Aumento de la duplicidad de datos",
+                "Mayor integración de datos"
+            ],
+            "answer": "Aumento de la duplicidad de datos"
+        },
+        {
+            "question": "¿Qué significa CRM en el ámbito empresarial?",
+            "options": [
+                "Corporate Resource Management",
+                "Customer Relationship Management",
+                "Customer Retail Management",
+                "Customer Revenue Management"
+            ],
+            "answer": "Customer Relationship Management"
+        },
+        {
+            "question": "¿Cuál es una ventaja principal de un CRM?",
+            "options": [
+                "Mejor gestión de las relaciones con los clientes",
+                "Aumento en los costos de producción",
+                "Mayor complejidad en la gestión de inventario",
+                "Eliminación de la contabilidad automatizada"
+            ],
+            "answer": "Mejor gestión de las relaciones con los clientes"
+        },
+        {
+            "question": "¿Qué empresa es líder en soluciones ERP a nivel mundial?",
+            "options": [
+                "SAP",
+                "Tesla",
+                "Google",
+                "Amazon"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa BI en el contexto empresarial?",
+            "options": [
+                "Business Integration",
+                "Business Intelligence",
+                "Big Innovation",
+                "Business Infrastructure"
+            ],
+            "answer": "Business Intelligence"
+        },
+        {
+            "question": "¿Cuál de estos sistemas se encarga de analizar datos empresariales?",
+            "options": [
+                "ERP",
+                "BI",
+                "SCM",
+                "CRM"
+            ],
+            "answer": "BI"
+        },
+        {
+            "question": "¿Qué es la planificación de recursos empresariales en un ERP?",
+            "options": [
+                "Un software solo para grandes empresas",
+                "Un sistema obsoleto sin mejoras",
+                "La integración de diferentes procesos empresariales",
+                "Un módulo exclusivo para finanzas"
+            ],
+            "answer": "La integración de diferentes procesos empresariales"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál es el principal propósito de un sistema ERP?",
+            "options": [
+                "Aumentar costos",
+                "Eliminar datos",
+                "Reducir la eficiencia",
+                "Optimizar procesos"
+            ],
+            "answer": "Optimizar procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué significa SCM en sistemas empresariales?",
+            "options": [
+                "Supply Chain Management",
+                "Sales Chain Marketing",
+                "Security Cloud Management",
+                "Software Control Manager"
+            ],
+            "answer": "Supply Chain Management"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Cuál de las siguientes opciones es un beneficio de un ERP?",
+            "options": [
+                "Desintegración del sistema",
+                "Aumento de costos",
+                "Automatización de procesos",
+                "Duplicidad de datos"
+            ],
+            "answer": "Automatización de procesos"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué solución de ERP es conocida por su enfoque en pequeñas empresas?",
+            "options": [
+                "IFS Cloud",
+                "SAP Business One",
+                "Oracle JD Edwards",
+                "Epicor"
+            ],
+            "answer": "SAP Business One"
+        },
+        {
+            "question": "¿Qué sistema de ERP es más utilizado por grandes empresas?",
+            "options": [
+                "SAP",
+                "OpenBravo",
+                "Dolibarr",
+                "Odoo"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        },
+        {
+            "question": "¿Qué sistema se especializa en la gestión de la relación con clientes?",
+            "options": [
+                "BI",
+                "SCM",
+                "ERP",
+                "CRM"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo de ERP se encarga de la contabilidad?",
+            "options": [
+                "Finanzas",
+                "Producción",
+                "Ventas",
+                "Inventario"
+            ],
+            "answer": "Finanzas"
+        },
+        {
+            "question": "¿Qué empresa ofrece la solución ERP 'SAP S/4HANA'?",
+            "options": [
+                "SAP",
+                "Oracle",
+                "Google",
+                "Microsoft"
+            ],
+            "answer": "SAP"
+        }
+    ]
+}

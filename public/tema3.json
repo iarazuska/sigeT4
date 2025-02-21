@@ -1,0 +1,4004 @@
+{
+    "quiz": [
+        {
+            "question": "¿Qué es Odoo?",
+            "options": [
+                "Un sistema ERP de código abierto",
+                "Un software de diseño gráfico",
+                "Un lenguaje de programación",
+                "Un sistema operativo"
+            ],
+            "answer": "Un sistema ERP de código abierto"
+        },
+        {
+            "question": "¿Qué módulo de Odoo se utiliza para la gestión de ventas?",
+            "options": [
+                "Ventas",
+                "Compras",
+                "Inventario",
+                "Recursos Humanos"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Cuál es la función principal del módulo de compras en Odoo?",
+            "options": [
+                "Gestionar la adquisición de productos a proveedores",
+                "Administrar la contabilidad de la empresa",
+                "Controlar las relaciones con los clientes",
+                "Gestionar el inventario en tiempo real"
+            ],
+            "answer": "Gestionar la adquisición de productos a proveedores"
+        },
+        {
+            "question": "¿Qué herramienta de base de datos se usa en Odoo?",
+            "options": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "SQL Server"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué permite hacer la gestión de almacén en Odoo?",
+            "options": [
+                "Controlar el stock de productos",
+                "Emitir facturas a clientes",
+                "Realizar campañas de marketing",
+                "Generar informes contables"
+            ],
+            "answer": "Controlar el stock de productos"
+        },
+        {
+            "question": "¿Qué módulo se utiliza para la gestión de empleados y contratos?",
+            "options": [
+                "Recursos Humanos",
+                "Ventas",
+                "Compras",
+                "Inventario"
+            ],
+            "answer": "Recursos Humanos"
+        },
+        {
+            "question": "¿Qué función tiene el TPV en Odoo?",
+            "options": [
+                "Facilitar la venta en tiendas físicas",
+                "Gestionar la contabilidad de la empresa",
+                "Monitorear el rendimiento del servidor",
+                "Controlar la seguridad del sistema"
+            ],
+            "answer": "Facilitar la venta en tiendas físicas"
+        },
+        {
+            "question": "¿Cuál es la ventaja principal de utilizar Odoo en la nube?",
+            "options": [
+                "Accesibilidad remota desde cualquier dispositivo",
+                "Mayor dependencia de hardware local",
+                "Limitación de usuarios concurrentes",
+                "Mayor costo en mantenimiento"
+            ],
+            "answer": "Accesibilidad remota desde cualquier dispositivo"
+        },
+        {
+            "question": "¿Qué módulo permite la gestión de clientes y oportunidades de venta?",
+            "options": [
+                "CRM",
+                "Inventario",
+                "Contabilidad",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué herramienta permite hacer auditoría en Odoo?",
+            "options": [
+                "PostgreSQL",
+                "Excel",
+                "Word",
+                "PowerPoint"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Administrar servidores"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Pequeñas y medianas empresas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Monitorear la red"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Emitir recibos en tiendas físicas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Controlar recursos humanos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Crear páginas web"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Facturación"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Mayor complejidad"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "SQLite"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Aumento de costos"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Administrar empleados"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo permite gestionar el inventario en tiempo real?",
+            "options": [
+                "Contabilidad",
+                "CRM",
+                "Facturación",
+                "Inventario"
+            ],
+            "answer": "Contabilidad"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Optimización de procesos"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo negocios locales"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Análisis de ventas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Cuál es una función del módulo de contabilidad en Odoo?",
+            "options": [
+                "Registrar facturas",
+                "Monitorear la red",
+                "Crear páginas web",
+                "Administrar empleados"
+            ],
+            "answer": "Registrar facturas"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Solo grandes corporaciones"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo gestiona la relación con los proveedores en Odoo?",
+            "options": [
+                "Ventas",
+                "CRM",
+                "Facturación",
+                "Compras"
+            ],
+            "answer": "Ventas"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "PostgreSQL"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Compras"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué sistema de base de datos es compatible con Odoo?",
+            "options": [
+                "MongoDB",
+                "SQLite",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "¿Qué permite hacer la tienda online en Odoo?",
+            "options": [
+                "Vender productos por Internet",
+                "Emitir recibos en tiendas físicas",
+                "Controlar recursos humanos",
+                "Administrar servidores"
+            ],
+            "answer": "Vender productos por Internet"
+        },
+        {
+            "question": "¿Cuál es una ventaja de usar un ERP?",
+            "options": [
+                "Reducción de productividad",
+                "Mayor complejidad",
+                "Aumento de costos",
+                "Optimización de procesos"
+            ],
+            "answer": "Reducción de productividad"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "CRM"
+        },
+        {
+            "question": "¿Qué módulo en Odoo permite generar informes de ventas?",
+            "options": [
+                "Inventario",
+                "CRM",
+                "Compras",
+                "Análisis de ventas"
+            ],
+            "answer": "Inventario"
+        },
+        {
+            "question": "¿Qué tipo de empresa puede usar Odoo?",
+            "options": [
+                "Únicamente startups",
+                "Solo grandes corporaciones",
+                "Solo negocios locales",
+                "Pequeñas y medianas empresas"
+            ],
+            "answer": "Únicamente startups"
+        }
+    ]
+}
