@@ -1442,16 +1442,6 @@
             "answer": "graph"
         },
         {
-            "question": "¿Qué atributo se utiliza en un campo para hacerlo invisible en una vista en Odoo?",
-            "options": [
-                "hidden='true'",
-                "invisible='1'",
-                "display='none'",
-                "visible='false'"
-            ],
-            "answer": "invisible='1'"
-        },
-        {
             "question": "¿Qué significa que una vista sea heredada en Odoo?",
             "options": [
                 "Es una copia exacta de otra vista",
@@ -2900,9 +2890,457 @@
         "Todos los anteriores son correctos"
     ],
     "answer": "Todos los anteriores son correctos"
+},
+{
+    "question": "¿Con qué símbolo se inicia un comentario en el lenguaje Python?",
+    "options": ["//", "#", "--", "/*"],
+    "answer": "#"
+},
+{
+    "question": "En Python, ¿cómo se delimitan los bloques de código en lugar de usar llaves u otros caracteres?",
+    "options": [
+        "Mediante la indentación (sangría) del código",
+        "Usando llaves { } alrededor del bloque",
+        "Colocando la palabra BEGIN y END",
+        "Encerrando el bloque entre paréntesis"
+    ],
+    "answer": "Mediante la indentación (sangría) del código"
+},
+{
+    "question": "¿Cuál de las siguientes NO es una característica del lenguaje Python?",
+    "options": [
+        "Es un lenguaje compilado",
+        "Tiene tipado dinámico",
+        "Es multiplataforma",
+        "Es fuertemente tipado"
+    ],
+    "answer": "Es un lenguaje compilado"
+},
+{
+    "question": "¿Cuál de los siguientes NO es un tipo de dato básico en Python?",
+    "options": [
+        "Cadena de texto (str)",
+        "Número entero (int)",
+        "Booleano (bool)",
+        "Carácter (char)"
+    ],
+    "answer": "Carácter (char)"
+},
+{
+    "question": "¿Qué tipo de dato en Python se utiliza para representar números con decimales?",
+    "options": ["float", "int", "str", "bool"],
+    "answer": "float"
+},
+{
+    "question": "¿Qué operador se utiliza en Python para calcular potencias (exponenciación)?",
+    "options": ["^ (acento circunflejo)", "** (doble asterisco)", "pow (palabra clave)", "% (porcentaje)"],
+    "answer": "** (doble asterisco)"
+},
+{
+    "question": "¿Cuál es el resultado de la operación 7 // 2 en Python?",
+    "options": ["3", "3.5", "4", "7.2"],
+    "answer": "3"
+},
+{
+    "question": "¿Cómo se compara la igualdad de dos valores en Python?",
+    "options": [
+        "Usando el operador == (doble igual)",
+        "Usando el operador = (igual simple)",
+        "Usando la función equals()",
+        "Usando el operador === (triple igual)"
+    ],
+    "answer": "Usando el operador == (doble igual)"
+},
+{
+    "question": "¿Cuál de estas colecciones de Python es inmutable (no se puede modificar tras su creación)?",
+    "options": ["Lista", "Tupla", "Diccionario", "Lista enlazada"],
+    "answer": "Tupla"
+},
+{
+    "question": "¿Qué ocurrirá si intentamos asignar un nuevo valor a un elemento de una tupla existente en Python?",
+    "options": [
+        "Provocará un error de tipo (TypeError)",
+        "La tupla se convertirá automáticamente en lista",
+        "El valor de la tupla cambiará si es del mismo tipo",
+        "No ocurrirá nada; Python ignorará la asignación"
+    ],
+    "answer": "Provocará un error de tipo (TypeError)"
+},
+{
+    "question": "¿Cómo se define un diccionario en Python?",
+    "options": [
+        "Utilizando llaves { } con pares clave:valor",
+        "Utilizando paréntesis ( ) con pares clave, valor",
+        "Utilizando corchetes [ ] con valores separados por comas",
+        "Utilizando la palabra clave dict seguida de la lista de valores"
+    ],
+    "answer": "Utilizando llaves { } con pares clave:valor"
+},
+{
+    "question": "¿Cómo se accede al valor asociado a la clave 'Nombre' en un diccionario Python almacenado en la variable datos?",
+    "options": [
+        "datos['Nombre']",
+        "datos.Nombre",
+        "datos[Nombre]",
+        "datos->'Nombre'"
+    ],
+    "answer": "datos['Nombre']"
+},
+{
+    "question": "En Python, ¿cuál de las siguientes options representa correctamente la conjunción lógica (AND) en una condición?",
+    "options": ["and", "&&", "AND", "&"],
+    "answer": "and"
+},
+{
+    "question": "¿Para qué se utiliza la sentencia for ... in en Python?",
+    "options": [
+        "Para recorrer (iterar) los elementos de una secuencia (lista, tupla, etc.)",
+        "Para ejecutar un bucle un número fijo de veces sin importar una colección",
+        "Para evaluar una condición de forma repetitiva",
+        "Para definir una función anónima"
+    ],
+    "answer": "Para recorrer (iterar) los elementos de una secuencia (lista, tupla, etc.)"
+},
+{
+    "question": "¿Con qué palabra clave se define una función en Python?",
+    "options": ["def", "function", "func", "lambda"],
+    "answer": "def"
+},
+{
+    "question": "¿Qué instrucción se utiliza dentro de una función en Python para devolver un valor al programa que la llamó?",
+    "options": ["return", "yield", "print", "break"],
+    "answer": "return"
+},
+{
+    "question": "¿Con qué palabra clave se declara una clase en Python?",
+    "options": ["class", "def", "new", "object"],
+    "answer": "class"
+},
+{
+    "question": "En Python, ¿cómo se llama el método especial que actúa como constructor de la clase, inicializando el objeto?",
+    "options": ["__init__", "constructor", "__new__", "__self__"],
+    "answer": "__init__"
+},
+{
+    "question": "¿Para qué sirve el parámetro self en los métodos de instancia de una clase Python?",
+    "options": [
+        "Para referirse al propio objeto (instancia) dentro de la clase",
+        "Para pasar un argumento opcional a la función",
+        "Para indicar el valor de retorno de la función",
+        "No tiene ninguna utilidad, solo es sintaxis requerida"
+    ],
+    "answer": "Para referirse al propio objeto (instancia) dentro de la clase"
+},
+{
+    "question": "¿Cómo se crea una instancia (objeto) de una clase llamada Persona en Python?",
+    "options": [
+        "persona = Persona(\"Nombre\", 30)",
+        "persona = new Persona(\"Nombre\", 30)",
+        "Persona persona = Persona(\"Nombre\", 30)",
+        "Persona persona = new Persona(\"Nombre\", 30)"
+    ],
+    "answer": "persona = Persona(\"Nombre\", 30)"
+},
+{
+    "question": "¿Qué es un módulo en el contexto de Python?",
+    "options": [
+        "Un archivo que contiene definiciones y código Python (por ejemplo, un archivo .py)",
+        "Una variable especial dentro de un programa Python",
+        "Una función predefinida del lenguaje",
+        "Un conjunto de datos almacenados en la memoria"
+    ],
+    "answer": "Un archivo que contiene definiciones y código Python (por ejemplo, un archivo .py)"
+},
+{
+    "question": "¿Cómo se importa un módulo llamado math en Python para poder usar sus funciones?",
+    "options": [
+        "import math",
+        "#include \"math\"",
+        "using math",
+        "require(math)"
+    ],
+    "answer": "import math"
+},
+{
+    "question": "¿Qué debe tener una carpeta para que Python la reconozca como un paquete de módulos?",
+    "options": [
+        "Un archivo __init__.py en el directorio",
+        "Un archivo __package__.py en el directorio",
+        "Que su nombre empiece con 'pkg_'",
+        "Nada en especial, Python detecta automáticamente las carpetas"
+    ],
+    "answer": "Un archivo __init__.py en el directorio"
+},
+{
+    "question": "¿Cuáles son las tres componentes fundamentales del patrón arquitectónico MVC?",
+    "options": [
+        "Modelo, Vista y Controlador",
+        "Modelo, Variable y Constante",
+        "Modulo, Vista y Clase",
+        "Memoria, Video y CPU"
+    ],
+    "answer": "Modelo, Vista y Controlador"
+},
+{
+    "question": "¿Qué responsabilidad tiene la capa Modelo en el patrón MVC?",
+    "options": [
+        "Gestionar y representar los datos de la aplicación",
+        "Definir la interfaz gráfica de usuario",
+        "Controlar la interacción y las entradas del usuario",
+        "Comunicar la aplicación con otros sistemas"
+    ],
+    "answer": "Gestionar y representar los datos de la aplicación"
+},
+{
+    "question": "En Odoo (arquitectura MVC), ¿cómo se implementa la capa Vista?",
+    "options": [
+        "Mediante archivos XML que describen la interfaz de usuario (vistas)",
+        "Con clases Python que definen la lógica de negocios",
+        "Con plantillas HTML incrustadas en el código Python",
+        "Mediante tablas en la base de datos"
+    ],
+    "answer": "Mediante archivos XML que describen la interfaz de usuario (vistas)"
+},
+{
+    "question": "¿En la arquitectura de Odoo, qué representa la capa Modelo del MVC?",
+    "options": [
+        "Las clases Python (modelos) que corresponden a tablas de la base de datos",
+        "Los archivos XML de vistas",
+        "Los controladores web escritos en JavaScript",
+        "Los archivos de configuración del servidor"
+    ],
+    "answer": "Las clases Python (modelos) que corresponden a tablas de la base de datos"
+},
+{
+    "question": "¿Qué comando de consola de Odoo permite crear automáticamente la estructura básica de un nuevo módulo?",
+    "options": [
+        "odoo scaffold <nombre_modulo> <ruta_addons>",
+        "odoo create-module <nombre>",
+        "odoo generate <nombre_modulo>",
+        "odoo new_module <nombre>"
+    ],
+    "answer": "odoo scaffold <nombre_modulo> <ruta_addons>"
+},
+{
+    "question": "¿En qué archivo se define la información básica de un módulo Odoo (nombre, descripción, versión, dependencias)?",
+    "options": ["__manifest__.py", "__init__.py", "models.py", "security.xml"],
+    "answer": "__manifest__.py"
+},
+{
+    "question": "¿Cuál es la función del archivo __init__.py en la carpeta de un módulo Odoo?",
+    "options": [
+        "Importar las subcarpetas (como controllers y models) para registrarlas al cargar el módulo",
+        "Definir las dependencias del módulo",
+        "Contener la descripción larga del módulo",
+        "Establecer los permisos por defecto del módulo"
+    ],
+    "answer": "Importar las subcarpetas (como controllers y models) para registrarlas al cargar el módulo"
+},
+{
+    "question": "Después de crear o modificar el código Python de un módulo en Odoo, ¿qué se debe hacer para que los cambios tengan efecto?",
+    "options": [
+        "Reiniciar el servicio de Odoo",
+        "Actualizar la página en el navegador",
+        "Nada, Odoo detecta automáticamente los cambios",
+        "Cambiar la versión del módulo en el manifest"
+    ],
+    "answer": "Reiniciar el servicio de Odoo"
+},
+{
+    "question": "¿En qué formato se definen las vistas (formularios, listas, etc.) de la interfaz en Odoo?",
+    "options": [
+        "En archivos XML",
+        "En archivos Python (.py)",
+        "En documentos HTML",
+        "En archivos YAML"
+    ],
+    "answer": "En archivos XML"
+},
+{
+    "question": "¿Cuál de las siguientes NO es un tipo de vista estándar en Odoo?",
+    "options": ["Consola", "Formulario", "Árbol (lista)", "Kanban"],
+    "answer": "Consola"
+},
+{
+    "question": "Para hacer visible un nuevo modelo en la interfaz de Odoo, es necesario:",
+    "options": [
+        "Definir sus vistas (árbol/formulario), una acción de ventana y un menú que la referencie",
+        "Solo crear la clase del modelo en Python, Odoo genera las vistas automáticamente",
+        "Crear un informe asociado al modelo",
+        "Reiniciar el servidor en modo desarrollador"
+    ],
+    "answer": "Definir sus vistas (árbol/formulario), una acción de ventana y un menú que la referencie"
+},
+{
+    "question": "¿Qué etiqueta XML se utiliza para definir un elemento de menú en Odoo?",
+    "options": ["<menuitem>", "<menu>", "<menuline>", "<item>"],
+    "answer": "<menuitem>"
+},
+{
+    "question": "¿Cuáles son los tipos de relaciones soportados entre modelos en Odoo?",
+    "options": [
+        "one2many, many2one, many2many",
+        "uno-a-uno, uno-a-muchos, muchos-a-muchos",
+        "relación simple, relación compuesta, relación múltiple",
+        "inner join, left join, right join"
+    ],
+    "answer": "one2many, many2one, many2many"
+},
+{
+    "question": "Para definir una relación one2many entre dos modelos en Odoo, ¿qué se debe hacer previamente?",
+    "options": [
+        "Definir un campo many2one correspondiente en el modelo relacionado",
+        "Definir campos one2many en ambos modelos",
+        "Crear una vista específica para la relación",
+        "Nada, Odoo infiere las relaciones automáticamente"
+    ],
+    "answer": "Definir un campo many2one correspondiente en el modelo relacionado"
+},
+{
+    "question": "En una relación Many2one de Odoo, ¿qué efecto tiene establecer ondelete='cascade'?",
+    "options": [
+        "Que al borrar el registro padre se borran también todos los registros hijos relacionados",
+        "Que impide borrar el registro si tiene relacionados hijos",
+        "Que al borrar el registro hijo se borra también el padre",
+        "Que se establece el valor 0 en el campo relacionado en vez de borrar"
+    ],
+    "answer": "Que al borrar el registro padre se borran también todos los registros hijos relacionados"
+},
+{
+    "question": "¿Para qué sirven las vistas de búsqueda en Odoo?",
+    "options": [
+        "Para personalizar los campos por los que se puede buscar y añadir filtros predefinidos",
+        "Para definir nuevas ventanas emergentes en la interfaz",
+        "Para acelerar las consultas SQL internas de Odoo",
+        "Para mostrar resultados de búsquedas web dentro de Odoo"
+    ],
+    "answer": "Para personalizar los campos por los que se puede buscar y añadir filtros predefinidos"
+},
+{
+    "question": "Por defecto, si un modelo no tiene definida una vista de búsqueda, ¿por qué campo realiza búsquedas Odoo en las vistas de lista?",
+    "options": [
+        "Por el campo 'name' del modelo",
+        "Por el primer campo definido en el modelo",
+        "Por todos los campos de tipo texto simultáneamente",
+        "No es posible buscar si no hay vista de búsqueda"
+    ],
+    "answer": "Por el campo 'name' del modelo"
+},
+{
+    "question": "En una vista de búsqueda de Odoo, ¿cómo se representaría en el XML un filtro llamado 'baratos' para mostrar libros con precio <= 5?",
+    "options": [
+        "<filter name=\\\"baratos\\\" domain=\\\"[('precio','&lt;=',5)]\\\"/>",
+        "<filter string=\\\"baratos\\\" domain=\\\"[('precio','<=',5)]\\\"/>",
+        "<filter name=\\\"baratos\\\" domain=\\\"[('precio','<=','5')]\\\"/>",
+        "<filter id=\\\"baratos\\\" domain=\\\"[('precio','<=',5)]\\\"/>"
+    ],
+    "answer": "<filter name=\\\"baratos\\\" domain=\\\"[('precio','&lt;=',5)]\\\"/>"
+},
+{
+    "question": "¿Qué atributo se utiliza en la definición de un campo de modelo Odoo para indicar que es un campo calculado?",
+    "options": ["compute", "calculated", "related", "onchange"],
+    "answer": "compute"
+},
+{
+    "question": "¿Con qué decorador se indica en Odoo de qué campos depende el cálculo de un campo calculado?",
+    "options": ["@api.depends", "@depends_on", "@api.onchange", "@api.calculate"],
+    "answer": "@api.depends"
+},
+{
+    "question": "¿Qué debe cumplir el nombre de la función que calcula un campo (método compute) en Odoo?",
+    "options": [
+        "Debe comenzar con un único guion bajo (_) antes del nombre",
+        "Debe tener exactamente el mismo nombre que el campo calculado",
+        "Debe estar definido fuera de la clase del modelo",
+        "No puede tener parámetros (ni siquiera self)"
+    ],
+    "answer": "Debe comenzar con un único guion bajo (_) antes del nombre"
+},
+{
+    "question": "¿Qué efecto tiene asignar store=True a un campo calculado en Odoo?",
+    "options": [
+        "Que el valor calculado se almacena en la base de datos",
+        "Que el valor se calcule cada vez bajo demanda y no se guarde",
+        "Que el campo solo esté disponible en modo lectura",
+        "Ninguno, es el valor por defecto"
+    ],
+    "answer": "Que el valor calculado se almacena en la base de datos"
+},
+{
+    "question": "¿Qué motor de plantillas utiliza Odoo para generar informes (por ejemplo, en PDF)?",
+    "options": [
+        "QWeb (plantillas XML)",
+        "Jasper Reports",
+        "HTML puro",
+        "LaTeX"
+    ],
+    "answer": "QWeb (plantillas XML)"
+},
+{
+    "question": "¿En qué directorio del módulo Odoo se suelen ubicar los archivos XML de definición de informes?",
+    "options": [
+        "En la carpeta 'reports'",
+        "En la carpeta 'views'",
+        "En la carpeta 'models'",
+        "En la carpeta 'security'"
+    ],
+    "answer": "En la carpeta 'reports'"
+},
+{
+    "question": "¿Cuál de los siguientes atributos NO es parte de la definición de un informe (<report>) en Odoo?",
+    "options": ["template", "id", "model", "report_type"],
+    "answer": "template"
+},
+{
+    "question": "Tras crear el archivo XML de un informe en Odoo, ¿qué paso es necesario para que el informe esté disponible en la aplicación?",
+    "options": [
+        "Añadir el archivo de informe en la lista 'data' del __manifest__.py del módulo",
+        "Reiniciar el servicio Odoo",
+        "Compilar el módulo con un comando especial",
+        "Agregar manualmente un registro en la base de datos"
+    ],
+    "answer": "Añadir el archivo de informe en la lista 'data' del __manifest__.py del módulo"
+},
+{
+    "question": "¿En qué archivo de un módulo Odoo se definen los grupos de seguridad (de acceso) del módulo?",
+    "options": [
+        "En un archivo XML dentro de la carpeta security (por ejemplo, security.xml)",
+        "En el archivo __manifest__.py",
+        "En el archivo __init__.py",
+        "En el archivo models.py"
+    ],
+    "answer": "En un archivo XML dentro de la carpeta security (por ejemplo, security.xml)"
+},
+{
+    "question": "¿En qué archivo se especifican los permisos de lectura/escritura/creación/borrado para cada modelo y grupo de un módulo Odoo?",
+    "options": [
+        "En el archivo security/ir.model.access.csv",
+        "En el archivo __manifest__.py",
+        "En el archivo security.xml",
+        "En la base de datos, tabla ir_model_access"
+    ],
+    "answer": "En el archivo security/ir.model.access.csv"
+},
+{
+    "question": "¿Qué indica un '1' en las columnas perm_read, perm_write, perm_create, perm_unlink del archivo de permisos de un módulo Odoo?",
+    "options": [
+        "Que ese permiso (lectura, escritura, etc.) está concedido para el grupo en esa línea",
+        "Que el permiso está denegado para ese grupo",
+        "Que se debe solicitar confirmación del administrador para ese permiso",
+        "No tiene significado especial, es un valor de relleno"
+    ],
+    "answer": "Que ese permiso (lectura, escritura, etc.) está concedido para el grupo en esa línea"
+},
+{
+    "question": "Si después de instalar un módulo en Odoo el menú del módulo no aparece para un usuario normal, ¿cuál es una posible causa?",
+    "options": [
+        "Que no se hayan definido grupos ni permisos de acceso para ese módulo (solo lo ve el superusuario)",
+        "Que el módulo no tenga ningún modelo",
+        "Que olvidó reiniciar Odoo tras la instalación",
+        "Que el nombre del menú no coincide con el del módulo"
+    ],
+    "answer": "Que no se hayan definido grupos ni permisos de acceso para ese módulo (solo lo ve el superusuario)"
 }
-        
-        
         
     ]
 }
